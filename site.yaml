@@ -17,3 +17,5 @@ context:
         menu:
             - title: Syllabus
               url: index.html
+            - title: Resources
+              url: resources.html
