@@ -8,14 +8,12 @@ plugins:
     - hyde.ext.plugins.textlinks.TextlinksPlugin
 context:
     data:
-        site_title: Site Name
+        site_title: Engineering Graphics in Design
         author:
-            name: Your Name Here
-            url: "http://example.com"
+            name: Jason K. Moore
+            url: "http://biosport.ucdavis.edu/lab-members/jason-moore"
         google_analytics_id: UA-XXXXX-YY
         home_url: index.html
         menu:
-            - title: Home
+            - title: Syllabus
               url: index.html
-            - title: Landing
-              url: landing.html
