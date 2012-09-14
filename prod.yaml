@@ -4,4 +4,4 @@ media_url: media
 publisher:
     mae:
         type: hyde.ext.publishers.pyfs.PyFS
-        url: sftp://biosport@mae.ucdavis.edu/home/grads/biosport/public_html/jkm/classes/eng4
+        url: sftp://biosport@mae.ucdavis.edu/home/grads/biosport/public_html/jkm/courses/eng4

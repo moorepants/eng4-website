@@ -1,4 +1,4 @@
-mode: development # Use "hyde publish -c prod.yaml to have this automatically switch to production
+mode: development
 media_root: media # Relative path from content folder.
 media_url: /media # URL where the media files are served from.
 plugins:
@@ -17,5 +17,10 @@ context:
         menu:
             - title: Syllabus
               url: index.html
+            - title: Assignments
+              url: assignments.html
+            - title: Studio
+              url: studio.html
             - title: Resources
               url: resources.html
+
