@@ -67,14 +67,14 @@ the studio sections meet in 1116 Academic Surge Building (ASB). **Studios will
 start meeting on the second scheduled date, see table below**. You must attend
 the section in which you are registered.
 
-=======  ============  ===================  ==========
-Section  Date & Time   Location             Start Date
-=======  ============  ===================  ==========
-A01      T 2:10-5:00   1116 Academic Surge  Oct 9
-A02      W 3:10-6:00   1116 Academic Surge  Oct 10
-A03      R 9:00-11:50  1116 Academic Surge  Oct 4
-A04      R 2:10-5:00   1116 Academic Surge  Oct 4
-=======  ============  ===================  ==========
+=======  ===============  ============  ===================  ==========
+Section  TA               Date & Time   Location             Start Date
+=======  ===============  ============  ===================  ==========
+A01      James Pitts      T 2:10-5:00   1116 Academic Surge  Oct 9
+A02      Alexander Fung   W 3:10-6:00   1116 Academic Surge  Oct 10
+A03      Kevin Uy         R 9:00-11:50  1116 Academic Surge  Oct 4
+A04      Yuriy Zrodnikov  R 2:10-5:00   1116 Academic Surge  Oct 4
+=======  ===============  ============  ===================  ==========
 
 Office Hours
 ============
