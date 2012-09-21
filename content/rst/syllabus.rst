@@ -25,10 +25,10 @@ Engineering student outcomes:
 
 - to prepare you to design a system, component, or process to meet desired
   needs within realistic constraints such as economic, environmental, social,
-  political, ethical, health and safety, manufacturability, and sustainability;
-- to prepare you to communicate effectively;
+  political, ethical, health and safety, manufacturability, and sustainability
+- to prepare you to communicate effectively
 - to prepare you to use the techniques, skills, and modern engineering tools
-  necessary for engineering practice.
+  necessary for engineering practice
 
 Goals:
 
@@ -84,7 +84,7 @@ by appointment) and via the smartsite chatroom, smartsite forum, and normal
 email during that time period.
 
 Each teaching assistant will hold office hours one hour a week in 1116 Academic
-Surge.
+Surge. Hours TBA.
 
 Academic Integrity
 ==================
@@ -95,6 +95,16 @@ Affairs at http://sja.ucdavis.edu/academic-integrity.html to review the campus'
 policy on academic responsibility and integrity and read the UC Davis code of
 academic conduct (http://sja.ucdavis.edu/cac.html).
 
+Exams and midterms will be closed note, closed book and done on an individual
+basis.
+
+Feel free to discuss homework assigments and work on them together, but each
+student must turn in a *unique* solution.
+
+The TA's will set ground rules for working together on studio assigments. The
+project will be a group effort with a single report for the entire group along
+with peer evaluations.
+
 Textbook
 ========
 
@@ -104,8 +114,8 @@ McGraw Hill Publishing. ISBN:978-0-07-352263-0 [`Book Info
 
 Both reading and homework will be assigned from the textbook. A copy of the
 textbook will be available on two-hour reserve at the library. If you have an
-older edition, I cannot guarantee that the HW problems or the content is the
-same as the current edition.
+older edition, I cannot guarantee that the homework problems or the content is
+the same as the current edition.
 
 Supplies
 ========
@@ -140,9 +150,10 @@ Suggested
 Software
 ========
 
-All of the required software will be available in 1116 Academic Surge.
+All of the required software will be available in 1116 Academic Surge, but you
+may download and install the software on your personal computer too.
 
-- Autodesk Inventor
+- Autodesk Inventor (students.autodesk.com)
 
 Lecture Schedule
 ================
@@ -186,18 +197,18 @@ the second official day.
 1  Visual Thinking, "free-form" sketching
 2  2D -> 3D & 3D -> 2D sketching, hidden lines/sections,
    introduce workstations
-3  Computer accounts, Intro Inventor tutorials
-4  Tutorials  Simple part to be modeled.
-   AD Inventor download information given to students.
-5  Tutorials  Gyro model & assembly as HW. Break students
-   into project groups; have them submit three ideas to model
-   for their project
-6  Final Drawings Tutorials  Simple part & gyro-rotor detail
+3  Computer accounts and intro Inventor tutorials
+4  Tutorials and modeling a simple part. AutoDesk Inventor
+   download information.
+5  Tutorials, Gyro model & assembly as homework. Students
+   break into project groups. Submit three ideas to model
+   for the project.
+6  Final Drawings Tutorials. Simple part & gyro-rotor detail
    drawings & sketch of project parts to be modeled w/
-   measurements and how it will be modeled as hw. Students
+   measurements and how it will be modeled as homework. Students
    may begin project modeling on their own.
-7  Begin project modeling  Organized Studio.
-8  Work on project modeling - No organized studio  TAs
+7  Begin project modeling - Organized Studio.
+8  Work on project modeling - No organized studio, but TAs
    available.
 9  Projects due at end of lab period - No organized studio –
    TAs available.
@@ -209,13 +220,13 @@ Assignments & Grades
 Grades will be available in the smartsite.ucdavis.edu_ grade book periodically
 throughout the course along with class statistics. Check the website on a
 regular basis to gauge your performance. Keep in mind that **15% is deducted
-per business day late**.
+per business day late** on all assignments.
 
 ================  ===  ==========
-Studio            35%  Includes studio homework, in-studio projects, and quarter project.
-Lecture Homework  15%  Includes possible in-class assignments; no make up in-class work.
-Midterm           20%  November 1 Fifty minutes during lecture period.
-Final             30%  December 14  8:00 AM to 10:00 AM.
+Studio            35%  Includes studio homework, in-studio projects, and quarter project
+Lecture Homework  15%  Includes possible in-class assignments; no make up in-class work
+Midterm           20%  November 1: Fifty minutes during lecture period.
+Final             30%  December 14: 8:00 AM to 10:00 AM.
 ================  ===  ==========
 
 .. _smartsite.ucdavis.edu: http://smartsite.ucdavis.edu
@@ -256,7 +267,10 @@ Assignments
    You will turn in some or all assignments through smartsite. If you have the
    ability to scan or take a clear photograph of your assignments, you can turn
    them in digitally. Otherwise they must be handed in at the beginning of
-   class on the due date.
+   class on the due date. Compress all of your files and documents into a
+   single zip file with your name and section in the file name and attach it to
+   the assignment. All documents must be in PDF form. Use Inventor's Pack and
+   Go feature for inventor files.
 Chat Room
    Feel free to use the chat room to meet with you peers and group members if
    you can't all be in one physical place. I and TA's will be available for

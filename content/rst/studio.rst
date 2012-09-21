@@ -45,7 +45,7 @@ Inkscape
 --------
 
 Inkscape_ is a free and open source 2D vector graphics editor based around the
-Scalable Vector Graphics (\*.svg) file format. We will make use of it to draw
+Scalable Vector Graphics (\*.svg) file format. We may make use of it to draw
 some basic 2D figures.
 
 .. _Inkscape: http://www.inkscape.org
