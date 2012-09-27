@@ -1,6 +1,8 @@
 This is a dynamic website that will be updated continuously throughout the
 duration of the course. All students and TAs should check periodically.
 
+Access this website with the tiny url http://tinyurl.com/ucdeng4.
+
 Course Description
 ==================
 
@@ -8,6 +10,7 @@ Course Description
 | Department of Mechanical and Aerospace Engineering
 | Engineering Graphics Design - ENG 004
 | Fall 2012
+| CRN: 22156, 22157, 22158, 22159
 |
 
 Lecture 2 hours; laboratory 3 hours. Engineering design, descriptive geometry,
@@ -67,24 +70,21 @@ the studio sections meet in 1116 Academic Surge Building (ASB). **Studios will
 start meeting on the second scheduled date, see table below**. You must attend
 the section in which you are registered.
 
-=======  ===============  ============  ===================  ==========
-Section  TA               Date & Time   Location             Start Date
-=======  ===============  ============  ===================  ==========
-A01      James Pitts      T 2:10-5:00   1116 Academic Surge  Oct 9
-A02      Alexander Fung   W 3:10-6:00   1116 Academic Surge  Oct 10
-A03      Kevin Uy         R 9:00-11:50  1116 Academic Surge  Oct 4
-A04      Yuriy Zrodnikov  R 2:10-5:00   1116 Academic Surge  Oct 4
-=======  ===============  ============  ===================  ==========
+=======  ===============  ===============  ============  ===================  ==========
+Section  Lead TA          Backup TA        Date & Time   Location             Start Date
+=======  ===============  ===============  ============  ===================  ==========
+A01      James Pitts      Alexander Fung   T 2:10-5:00   1116 Academic Surge  Oct 9
+A02      Alexander Fung   James Pitts      W 3:10-6:00   1116 Academic Surge  Oct 10
+A03      Kevin Uy         Yuriy Zrodnikov  R 9:00-11:50  1116 Academic Surge  Oct 4
+A04      Yuriy Zrodnikov  Kevin Uy         R 2:10-5:00   1116 Academic Surge  Oct 4
+=======  ===============  ===============  ============  ===================  ==========
 
 Office Hours
 ============
 
-I will be available in my office during office hours (T and R 1:00-2:00 PM, or
-by appointment) and via the smartsite chatroom, smartsite forum, and normal
-email during that time period.
-
-Each teaching assistant will hold office hours one hour a week in 1116 Academic
-Surge. Hours TBA.
+I will be available in my office during office hours (Tuesday and Thursday
+1:00-2:00 PM, or by appointment) and via the smartsite chatroom, smartsite
+forum, and normal email during that time period.
 
 Academic Integrity
 ==================
@@ -98,10 +98,10 @@ academic conduct (http://sja.ucdavis.edu/cac.html).
 Exams and midterms will be closed note, closed book and done on an individual
 basis.
 
-Feel free to discuss homework assigments and work on them together, but each
+Feel free to discuss homework assignments and work on them together, but each
 student must turn in a *unique* solution.
 
-The TA's will set ground rules for working together on studio assigments. The
+The TA's will set ground rules for working together on studio assignments. The
 project will be a group effort with a single report for the entire group along
 with peer evaluations.
 
@@ -115,20 +115,21 @@ McGraw Hill Publishing. ISBN:978-0-07-352263-0 [`Book Info
 Both reading and homework will be assigned from the textbook. A copy of the
 textbook will be available on two-hour reserve at the library. If you have an
 older edition, I cannot guarantee that the homework problems or the content is
-the same as the current edition.
+the same as the current edition. Find a friend to share the textbook with if
+the price is prohibitive.
 
 Supplies
 ========
 
 Several drawing/sketching supplies will be helpful in your pencil and paper
-work. All supplies are available from the campus bookstore. You must purchase
-the required supplies before the first studio session and bring at least the
-sketch pad to the first studio.
+work. All supplies are available from the campus bookstore at a discounted
+price. You must purchase the required supplies before the first studio session
+and bring at least the sketch pad to the first studio.
 
 Required
 --------
 
-- 9"x12" Spiral Unlined Sketch Pad, at least 50 Sheets
+- Spiral Unlined Sketch Pad, at least 50 Sheets (9"x12" recommended)
 
 Recommended
 -----------
@@ -143,7 +144,7 @@ Recommended
 Suggested
 ---------
 
-- Divider
+- Divider (some compasses can be used as a divider)
 - Circle Template (~1/16”-2”)
 - 1 Gig (or more) USB memory stick
 
@@ -153,7 +154,7 @@ Software
 All of the required software will be available in 1116 Academic Surge, but you
 may download and install the software on your personal computer too.
 
-- Autodesk Inventor (students.autodesk.com)
+- Autodesk Inventor (http://students.autodesk.com)
 
 Lecture Schedule
 ================
@@ -172,8 +173,8 @@ Oct 16      ''                                       ''               HW #2 Due
 Oct 18      3-D Solid Modeling                       Chapter 4        Guest Lecturer
 Oct 23      ''                                       ''               HW #3 Due
 Oct 25      Multi-View Standards                     Chapter 5
-**Oct 30**   **Midterm**                                              Guest Proctor, HW #4 Due
-Nov 1       Multi-View Standards                     Chapter 5
+Oct 30      ''                                       ''               HW #4 Due
+**Nov 1**   **Midterm**
 Nov 6       Design Documentation                     Chapters 9 & 11  HW #5 Due
 Nov 8       Dimensioning and Tolerancing             ''
 Nov 13      ''                                       ''               HW #6 Due
@@ -191,7 +192,7 @@ Studio Schedule
 ===============
 
 This is a tentative schedule of the studio topics. The first studio starts on
-the second official day.
+the second official day of lab.
 
 =  =========================================================
 1  Visual Thinking, "free-form" sketching
@@ -220,7 +221,10 @@ Assignments & Grades
 Grades will be available in the smartsite.ucdavis.edu_ grade book periodically
 throughout the course along with class statistics. Check the website on a
 regular basis to gauge your performance. Keep in mind that **15% is deducted
-per business day late** on all assignments.
+per business day late** on all assignments. Take extra caution if you believe
+your exams or assignments to be incorrectly graded. If the request for
+additional points is found **NOT** to be valid, one point will be
+**subtracted** from the total score of the assignment or exam.
 
 ================  ===  ==========
 Studio            35%  Includes studio homework, in-studio projects, and quarter project
@@ -257,10 +261,14 @@ Smartsite
 
 We will make heavy use of smartsite for the course. Log in to
 smartsite.ucdavis.edu with you Kerberos ID and passphrase then select **ENG 004
-A01-A04 FQ 2012**. We will be using several features in smartsite.
+A01-A04 FQ 2012** or access the smartsite through this link:
+
+https://smartsite.ucdavis.edu/xsl-portal/site/30860954-0d1c-4974-af70-db38f4ae42c6
+
+We will be using several features in smartsite:
 
 Announcements
-   All class annoucements will be sent to your ucd email address and be
+   All class announcements will be sent to your UCD email address and be
    collected here. Check this regularly during the class for important
    information.
 Assignments
@@ -273,15 +281,16 @@ Assignments
    Go feature for inventor files.
 Chat Room
    Feel free to use the chat room to meet with you peers and group members if
-   you can't all be in one physical place. I and TA's will be available for
-   chat during our scheduled office hours.
+   you can't all be in one physical place. I will be available for chat during
+   our scheduled office hours. The TAs may be available during studio sessions
+   too.
 Course Website
    This displays this website within smartsite.
 Email Archive
    All emails sent to the class will be archived here. You may send emails to
    eng4-fall2012@smartsite.ucdavis.edu if you have general questions that all
-   of the class may benefit from. Do not abuse this. Send personal emails me
-   and the TA's through our ucd email addresses.
+   of the class may benefit from. **Do not abuse this.** Send personal emails
+   to me and the TA's through our UCD email addresses.
 Forums
    Feel free to start topics and discussion in the forums. All class
    participants and the instructors will be able to comment.

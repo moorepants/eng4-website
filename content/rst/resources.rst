@@ -1,3 +1,11 @@
+Textbook
+========
+
+The `text book website`_ provides an online learning center with extra materials,
+quizzes, and information.
+
+.. _text book website: http://www.mhhe.com/bertoline
+
 Taking Notes
 ============
 
