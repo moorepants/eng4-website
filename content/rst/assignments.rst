@@ -29,6 +29,9 @@ will allow for digital submission. Paper submission during lecture and studio
 is also permitted, but if you are able to submit **all** of your assignments
 digitally (sketchbook and in-class assignments excluded) and your grade is
 borderline at the end of the quarter I will bump it higher at my discretion.
+You may submit part of your homework digitally and part on paper in class if
+necessary but make a note in the text box in the digital submission that you
+have done so.
 
 Digital Submissions must follow these guidelines:
 
@@ -39,6 +42,11 @@ Digital Submissions must follow these guidelines:
 - The front page of all pdf documents should include your name, the date, your
   studio section (A01, A02, A03, or A04), and the homework number.
 - All digital submissions are due to smartsite before class on the due date.
+- Please scan hand drawings if possible. You may also take a photo of the
+  drawing, but it must be clear and legible! Pulling some tips from websites_ on
+  the topic may help you take a decent photograph.
+
+.. _websites: http://www.subchaser.org/photographing-documents
 
 Paper submissions must follow these guidelines:
 
@@ -58,6 +66,7 @@ General Guidelines
 - Unless otherwise stated, sketches and drawings may be done in your
   sketchbook, but you must submit a copy of them from your sketchbook with your
   homework.
+- Do not use a computer to generate your drawings unless specified.
 
 You will lose points if you do not follow these guidelines!
 

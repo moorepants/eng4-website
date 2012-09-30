@@ -146,7 +146,13 @@ Suggested
 
 - Divider (some compasses can be used as a divider)
 - Circle Template (~1/16”-2”)
-- 1 Gig (or more) USB memory stick
+- 1 Gig (or more) USB memory stick (Cloud sevices like Dropbox_, `Google
+  Drive`_, and `Ubuntu One`_ are good options for storing and sharing data for
+  the class too.)
+
+.. _Dropbox: http://www.dropbox.com
+.. _Google Drive: http://drive.google.com
+.. _Ubuntu One: https://one.ubuntu.com
 
 Software
 ========

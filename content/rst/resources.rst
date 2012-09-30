@@ -62,23 +62,30 @@ fabrication but many are useful for engineering needs.
 Sketchup_
    A 3D modeling package that is free to download. Many people make use of it
    for rapid prototyping and 3D printing.
+Tinkercad_
+   A web browser based 3D CAD program focused around 3D printing.
+`Autodesk 123D`_
+   Autodesk's simple 3D CAD program that can be used to create objects for 3D
+   printing. Print at home or have them print for you.
 Blender_
    A free and open source 3D modeling, animation, and rendering package. There
    is a `module for engineering style CAD`_ in the works.
 
 .. _nice article: http://en.wikipedia.org/wiki/Computer-aided_design
 .. _list on Wikipedia: http://en.wikipedia.org/wiki/List_of_computer-aided_design_editors
-.. _Solidworks: http://www.solidworks.com/
-.. _AutoDesk Inventor: http://usa.autodesk.com/autodesk-inventor/
+.. _Solidworks: http://www.solidworks.com
+.. _AutoDesk Inventor: http://usa.autodesk.com/autodesk-inventor
 .. _Pro Engineer: http://www.ptc.com/product/creo/parametric
-.. _Catia: http://www.3ds.com/products/catia/
+.. _Catia: http://www.3ds.com/products/catia
 .. _SolidEdge: http://www.siemens.com/solidedge
 .. _FreeCAD: http://sourceforge.net/apps/mediawiki/free-cad
-.. _BRL-CAD: http://brlcad.org/
+.. _BRL-CAD: http://brlcad.org
 .. _QCAD: http://www.ribbonsoft.com/en/qcad
-.. _OpenSCAD: http://www.openscad.org/
+.. _OpenSCAD: http://www.openscad.org
 .. _3D modeling software: http://en.wikipedia.org/wiki/3D_computer_graphics_software
-.. _Sketchup: http://www.sketchup.com/
+.. _Sketchup: http://www.sketchup.com
+.. _Tinkercad: http://www.tinkercad.com
+.. _Autodesk 123D: http://www.123dapp.com
 .. _Blender: http://www.blender.org
 .. _module for engineering style CAD: http://projects.blender.org/projects/blendercad/
 
@@ -90,12 +97,14 @@ Free Models and Content
 - `Charles Bliss`_ : nice selection of inventor models
 - Thingiverse_ : warehouse of models for 3D printing
 - `SketchUp Warehouse`_ : Google's 3D model warehouse for SketchUp
+- Shapeways_ : Share your models and 3D prints
 
 .. _GrabCAD: http://grabcad.com/
 .. _AutoDesk Design Showcase: http://students.autodesk.com/?nd=showcase_gallery
 .. _Charles Bliss: http://www.cbliss.com/inventor
 .. _Thingiverse: http://www.thingiverse.com/
 .. _SketchUp Warehouse: http://sketchup.google.com/3dwarehouse/
+.. _Shapeways: http://www.shapeways.com
 
 UCD 3D Modeling Club
 ====================
