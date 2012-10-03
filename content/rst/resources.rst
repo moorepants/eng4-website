@@ -16,6 +16,31 @@ website`_ on the topic.
 .. _`these tips`: media/documents/taking-notes.pdf
 .. _`informative website`: http://www.dartmouth.edu/~acskills/success/notes.html
 
+Dieter Rams's Ten Principles for Good Design
+============================================
+
+- http://en.wikipedia.org/wiki/Dieter_Rams
+- https://www.vitsoe.com/us/about/good-design
+
+Zip Files
+=========
+
+`Zip files`_ can contain many other files and folders. The files inside a zip
+file are also compressed to reduce overall size. If you have to turn in more
+than one file for your homework you must zip them into a single file first.
+Most operating systems have the ability to create zip files. Here are some
+example instructions:
+
+- Windows: http://condor.depaul.edu/slytinen/instructions/zip.html
+- Mac Os X: http://www.macinstruct.com/node/159
+- Ubuntu: https://help.ubuntu.com/community/FileCompression
+
+If these instructions aren't applicable to your operating system then search
+the web for instructions or download a program such as 7zip_.
+
+.. _Zip files: http://en.wikipedia.org/wiki/Zip_%28file_format%29
+.. _7zip: http://www.7-zip.org/
+
 Grid Paper
 ==========
 
@@ -111,3 +136,8 @@ UCD 3D Modeling Club
 
 If you enjoy solid modeling and drafting, check out the 3DMD: UC Davis 3-D
 Modeling and Design Club http://ucd3dmd.blogspot.com/
+
+Books
+=====
+
+- `VizAbility <http://ldt.stanford.edu/~bhavin/viz/>`_

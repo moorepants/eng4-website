@@ -161,6 +161,7 @@ All of the required software will be available in 1116 Academic Surge, but you
 may download and install the software on your personal computer too.
 
 - Autodesk Inventor (http://students.autodesk.com)
+- Inkscape (http://www.inkscape.org)
 
 Lecture Schedule
 ================

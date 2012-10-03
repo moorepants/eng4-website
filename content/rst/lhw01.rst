@@ -30,4 +30,3 @@ Sketching Assignment
 
 .. _autodesk: http://www.wired.com/business/2012/09/ff-autodesk-and-the-big-make/
 .. _makerbot: http://www.wired.com/design/2012/09/how-makerbots-replicator2-will-launch-era-of-desktop-manufacturing
-

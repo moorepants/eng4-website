@@ -35,10 +35,10 @@ have done so.
 
 Digital Submissions must follow these guidelines:
 
-- A single zip file should be attached to the assignment via smartsite. It
-  should contain only pdf(s) documents and/or the results from a "Pack and Go"
-  in Inventor. No word processing files are permitted (``.doc``, ``.docx``,
-  ``.odt``); export to pdf if you are unsure.
+- A single zip file\ [#zip]_ should be attached to the assignment via
+  smartsite. It should contain only pdf(s) documents and/or the results from a
+  "Pack and Go" in Inventor. No word processing files are permitted (``.doc``,
+  ``.docx``, ``.odt``); export to pdf if you are unsure.
 - The front page of all pdf documents should include your name, the date, your
   studio section (A01, A02, A03, or A04), and the homework number.
 - All digital submissions are due to smartsite before class on the due date.
@@ -74,3 +74,7 @@ Lecture Homeworks
 =================
 
 - `Homework #1 <lhw01.html>`_ [Due October 9]
+
+.. rubric:: Footnotes
+
+.. [#zip] `Zip file creation instructions <resources.html#zip-files>`_

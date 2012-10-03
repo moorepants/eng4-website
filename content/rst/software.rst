@@ -21,6 +21,16 @@ the 2013 version installed in the computer lab.**
 .. _AutoDesk Inventor: http://en.wikipedia.org/wiki/Autodesk_Inventor
 .. _system requirements: http://usa.autodesk.com/autodesk-inventor/system-requirements/
 
+Tutorials
+---------
+
+You will be using the official `Autodesk Inventor Tutorials`_ during the 
+studio session and also during homework. They can be viewed at the `Autodesk 
+Help Wiki`_ among other things. 
+
+.. _Autodesk Inventor Tutorials: http://wikihelp.autodesk.com/Inventor/enu/2013/Help/0126-Tutorial126
+.. _Autodesk Help Wiki: http://wikihelp.autodesk.com/Inventor/enu/2013
+
 Pack and Go
 ~~~~~~~~~~~
 
