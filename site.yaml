@@ -17,6 +17,8 @@ context:
         menu:
             - title: Syllabus
               url: index.html
+            - title: Lectures
+              url: lectures.html
             - title: Assignments
               url: assignments.html
             - title: Studio
