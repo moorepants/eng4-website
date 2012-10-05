@@ -36,17 +36,25 @@ have done so.
 Digital Submissions must follow these guidelines:
 
 - A single zip file\ [#zip]_ should be attached to the assignment via
-  smartsite. It should contain only pdf(s) documents and/or the results from a
-  "Pack and Go" in Inventor. No word processing files are permitted (``.doc``,
-  ``.docx``, ``.odt``); export to pdf if you are unsure.
+  smartsite. It should contain only pdf(s) documents, image files (``.jpg``,
+  ``.png``), and/or the results from a "Pack and Go" in Inventor. No word
+  processing files are permitted (``.doc``, ``.docx``, ``.odt``); export to pdf
+  if you are unsure.
 - The front page of all pdf documents should include your name, the date, your
   studio section (A01, A02, A03, or A04), and the homework number.
 - All digital submissions are due to smartsite before class on the due date.
 - Please scan hand drawings if possible. You may also take a photo of the
   drawing, but it must be clear and legible! Pulling some tips from websites_ on
   the topic may help you take a decent photograph.
+- Scans and photos of the drawings should have reasonable file sizes (less than
+  about 1mb per drawing). Use a low enough resolution when scanning or
+  converting your images so that they aren't huge files, but high enough so
+  that they remain legible and clear. The free software Gimp_ can be used to
+  change the resolution like many other photo editing software. Scan in grey
+  scale or black/white to reduce file size too.
 
 .. _websites: http://www.subchaser.org/photographing-documents
+.. _Gimp: http://www.gimp.org
 
 Paper submissions must follow these guidelines:
 
