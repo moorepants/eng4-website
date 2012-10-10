@@ -25,9 +25,17 @@ drawings to bitmap/raster images. With practice highly realistic 2D images can
 be created. We will learn the basics of Inkscape and create some engineering
 diagrams.
 
+Tutorials
+~~~~~~~~~
+
+The `Inkscape documentation website`_ has lots of general tutorials. We will
+follow this `basic tutorial for a free body diagram`_ in the studio session.
+
 .. _Inkscape: http://www.inkscape.org
 .. _vector graphics: http://en.wikipedia.org/wiki/Vector_graphics
 .. _Scalable Vector Graphics: http://en.wikipedia.org/wiki/Scalable_Vector_Graphics
+.. _Inkscape documentation website: http://inkscape.org/doc/
+.. _basic tutorial for a free body diagram: inkscape-tutorial.html
 
 AutoDesk Inventor
 -----------------

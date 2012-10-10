@@ -1,0 +1,4 @@
+- `Lecture #1 <lectures/lecture01.html>`_, September 27th
+- `Lecture #2 <lectures/lecture02.html>`_, October 2
+- `Lecture #3 <lectures/lecture03.html>`_, October 4
+- `Lecture #4 <lectures/lecture04.html>`_, October 9

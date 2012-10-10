@@ -16,11 +16,34 @@ website`_ on the topic.
 .. _`these tips`: media/documents/taking-notes.pdf
 .. _`informative website`: http://www.dartmouth.edu/~acskills/success/notes.html
 
+Design
+======
+
+Videos
+------
+
+`10 Unmissable TED Videos For Designers <http://www.hongkiat.com/blog/ted-video-for-web-designers/>`_
+
 Dieter Rams's Ten Principles for Good Design
-============================================
+--------------------------------------------
 
 - http://en.wikipedia.org/wiki/Dieter_Rams
 - https://www.vitsoe.com/us/about/good-design
+
+Drawing Tutorials
+=================
+
+Searching YouTube_ for any of the drawing techniques will bring up many
+tutorials on the topic. For example:
+
+- One point perspective: `Part 1 <http://youtu.be/zrYDFnaKc7s>`_, `Part 2
+  <http://youtu.be/kUSBliw2gVs>`_
+- Two point perspective: `Part One <http://youtu.be/KE3ZkWtX8UU>`_, `Part Two
+  <http://youtu.be/WQj57V8v4pI>`_
+- `Isometric <http://youtu.be/KN7281MUp_U>`_
+- `Iso, Oblique, One Point, Two Point <http://youtu.be/fU8so10cXUo>`_
+
+.. _Youtube: http://www.youtube.com
 
 Zip Files
 =========

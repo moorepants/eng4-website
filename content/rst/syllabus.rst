@@ -171,10 +171,11 @@ This is a tentative schedule for the lecture topics and exam dates.
 ==========  =======================================  ===============  =====
 Date        Topic                                    Reading          Notes
 ==========  =======================================  ===============  =====
-Sep 27      Introduction, Design Process             Chapters 1 & 2
-Oct 2       Visual Thinking, Sketching, Diagramming  ''
-Oct 4       Standards & Conventions, Tools           ''
-Oct 9       Construction Lines, Proportions          ''               HW #1 Due
+Sep 27      Introduction, Design Examples            Chapter 1
+Oct 2       Design Process, Visual Thinking          Chapter 1
+Oct 4       Sketching, Standards & Conventions,      Chapter 2
+            Construction Lines, Proportions
+Oct 9       Drawing types, Diagramming               Chapter 5        HW #1 Due
 Oct 11      Geometric Modeling                       Chapter 3
 Oct 16      ''                                       ''               HW #2 Due
 Oct 18      3-D Solid Modeling                       Chapter 4        Guest Lecturer
@@ -202,24 +203,22 @@ This is a tentative schedule of the studio topics. The first studio starts on
 the second official day of lab.
 
 =  =========================================================
-1  Visual Thinking, "free-form" sketching
-2  2D -> 3D & 3D -> 2D sketching, hidden lines/sections,
-   introduce workstations
+1  Visual Thinking, "free-form" sketching, introduce workstations
+2  2D -> 3D & 3D -> 2D sketching, diagrams, hidden lines/sections
 3  Computer accounts and intro Inventor tutorials
 4  Tutorials and modeling a simple part. AutoDesk Inventor
    download information.
 5  Tutorials, Gyro model & assembly as homework. Students
    break into project groups. Submit three ideas to model
    for the project.
-6  Final Drawings Tutorials. Simple part & gyro-rotor detail
-   drawings & sketch of project parts to be modeled w/
-   measurements and how it will be modeled as homework. Students
-   may begin project modeling on their own.
+6  Final drawings tutorials, simple part & gyro-rotor detail drawings,
+   sketch of project parts with description of how it will be modeled as
+   homework, students may begin project modeling.
 7  Begin project modeling - Organized Studio.
-8  Work on project modeling - No organized studio, but TAs
+8  Work on project modeling - No organized studio but TAs are
    available.
-9  Projects due at end of lab period - No organized studio –
-   TAs available.
+9  Projects due at end of lab period, no organized studio but
+   are TAs available.
 =  =========================================================
 
 Assignments & Grades
