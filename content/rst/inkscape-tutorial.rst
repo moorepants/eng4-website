@@ -31,7 +31,7 @@ linear gradient for the fill.
 Select the selection tool and click on the first block. Copy and paste the
 block to create a second slider block.
 
-Click the block and revealing the rotation arrows.
+Click the second block to reveal the rotation arrows.
 
 .. image:: media/images/inkscape-tutorial/rotation-arrows.png
 
@@ -47,7 +47,7 @@ Create the walls
 
 Use the "Draw Bezier curves and straight lines" |bezier| to draw an "L"
 shaped lines to create the walls. Hold the ``Ctrl`` key while creating the
-lines to make perfectly horizontal and vertical lines.
+lines to make them perfectly horizontal and vertical lines.
 
 .. image:: media/images/inkscape-tutorial/draw-wall.png
 
@@ -66,9 +66,9 @@ wall lines. Select the wall, then click the end node while holding both the
 Create the linkages
 ===================
 
-Use "Edit paths by nodes" |paths| tool again to create the linkage
-between the two blocks. Click the center of the first block, then the center of
-the second block and press ``Enter`` to complete the line.
+Use "Draw Bezier curves and straight lines" |bezier| tool again to create the
+linkage between the two blocks. Click the center of the first block, then the
+center of the second block and press ``Enter`` to complete the line.
 
 .. image:: media/images/inkscape-tutorial/linkage-start.png
 
@@ -117,8 +117,9 @@ Use the paths tool |paths| to size the lines. Don't forget to depress
 
 .. image:: media/images/inkscape-tutorial/dimensions.png
 
-Add text for dimensions, rotate text boxes, and drag into place. Label slider
-block "A", "B", and center of connecting rod "G" with 20 point font size.
+Add text for dimensions (14 pt font size), rotate the dimension text boxes, and
+drag into place. Label slider block "A", "B", and center of connecting rod "G"
+with 20 point font size.
 
 .. image:: media/images/inkscape-tutorial/annotation.png
 
