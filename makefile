@@ -7,6 +7,7 @@ lectures=lectures/
 push:
 	rm -rf deploy
 	hyde gen -c prod.yaml
+	python gen_lecture_pdfs.py
 	rsync -r -t -v --progress $(source) $(username)@$(server):$(destination)
 	rsync -r -t -v --progress --exclude=".*" $(lectures) $(username)@$(server):$(destination)$(lectures)
 	ssh $(username)@$(server) 'find $(destination) -type f -exec chmod 644 {} \;'
