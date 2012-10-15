@@ -51,8 +51,8 @@ Autodesk provides a student and educator oriented resource web site at
 http://students.autodesk.com. Free academic versions of Inventor can be
 downloaded there with a valid university email address. Check the `system
 requirements`_ and make sure your computer meets them before downloading and
-installing. **Make sure to download the 2013 version so that the files are
-compatible with the 2013 version installed in the computer lab.**
+installing\ [#mac]_. **Make sure to download the 2013 version so that the files
+are compatible with the 2013 version installed in the computer lab.**
 
 .. _AutoDesk Inventor: http://en.wikipedia.org/wiki/Autodesk_Inventor
 .. _system requirements: http://usa.autodesk.com/autodesk-inventor/system-requirements/
@@ -76,3 +76,12 @@ all files from a project. Follow `these instructions`_ to pack and go your
 projects for submission.
 
 .. _these instructions: packandgo.html
+
+.. rubric:: Footnotes
+
+.. [#mac] Inventor is only available for Windows, but Macintosh and Linux users may
+   be able to run Inventor with a virtual machine or dual booting. See this
+   `Mac FAQ`_ for suggestions. Unfortunately, either solution requires you to
+   have a valid copy of Windows.
+
+.. _Mac FAQ: http://images.autodesk.com/adsk/files/autodesk_inventor_on_the_macintosh_faq_041410.pdf

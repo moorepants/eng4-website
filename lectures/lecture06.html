@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=1024, user-scalable=no">
+
+	<title>ENG 004 - Lecture #6</title>
+
+	<!-- Required stylesheet -->
+	<link rel="stylesheet" href="deck.js/core/deck.core.css">
+
+	<!-- Extension CSS files go here. Remove or add as needed. -->
+	<link rel="stylesheet" href="deck.js/extensions/goto/deck.goto.css">
+	<link rel="stylesheet" href="deck.js/extensions/menu/deck.menu.css">
+	<link rel="stylesheet" href="deck.js/extensions/navigation/deck.navigation.css">
+	<link rel="stylesheet" href="deck.js/extensions/status/deck.status.css">
+	<link rel="stylesheet" href="deck.js/extensions/hash/deck.hash.css">
+	<link rel="stylesheet" href="deck.js/extensions/scale/deck.scale.css">
+
+	<!-- Style theme. More available in /themes/style/ or create your own. -->
+	<link rel="stylesheet" href="deck.js/themes/style/swiss.css">
+
+	<!-- Transition theme. More available in /themes/transition/ or create your own. -->
+	<link rel="stylesheet" href="deck.js/themes/transition/horizontal-slide.css">
+
+	<!-- Custom styles -->
+	<link rel="stylesheet" href="style.css">
+
+	<!-- Required Modernizr file -->
+	<script src="deck.js/modernizr.custom.js"></script>
+
+</head>
+
+<body class="deck-container">
+
+<!-- Begin slides. Just make elements with a class of slide. -->
+
+<section class="slide" class="title-slide">
+	<h2>ENG 004 Lecture 6, Oct 16, 2012</h2>
+	<h3>Announcements</h3>
+	<ul>
+		<li>Turn in Homework #2 now.</li>
+		<li>Read Chapter 3</li>
+		<li>Homework #3 will be available after class</li>
+		<li>No office hours Thursday, Oct 18</li>
+		<li>Guest lecturer(s) on Thursday</li>
+	</ul>
+	<h3>Topics</h3>
+	<p>Use of Grids</p>
+	<p>Geometric Modeling</p>
+	<p>Coordinates</p>
+</section>
+
+<section class="slide">
+	<h2>Grid Examples</h2>
+	<h3>Rectangular Grid</h3>
+	<h3>Isometric Grid</h3>
+</section>
+
+<section class="slide">
+	<h2>Geometric Modeling</h2>
+	<h3>Units of Measure</h3>
+	<ul>
+		<li>US Customary: [in]</li>
+		<li>International System of Units, SI (metric): [mm]</li>
+	</ul>
+	<h3>Coordinates</h3>
+	<p>In practice, Cartesian coordinates are default in most CAD packages.</p>
+	<p>Also the right-handed orientation is used.</p>
+</section>
+
+<section class="slide">
+	<h2>Cartesian Coordinate System</h2>
+	<a href="http://en.wikipedia.org/w/index.php?title=File:Cartesian-coordinate-system.svg">
+		<img src="media/lecture06/cartesian-coordinate-system.png" />
+	</a>
+</section>
+
+<section class="slide">
+	<h2>2D Coordinate Systems</h2>
+	<table class="side-by-side">
+		<tr>
+			<td>
+				<img src="media/lecture06/polar.png" />
+			</td>
+			<td>
+				<p><strong>Rectangular</strong>: (x, y)</p>
+				<p><strong>Polar</strong>: (r, θ)</p>
+			</td>
+		</tr>
+	</table>
+</section>
+
+<section class="slide">
+	<h2>2D Coordinate Systems</h2>
+	<img src="media/lecture06/2d-rectangle.png" />
+</section>
+
+<section class="slide">
+	<h2>3D Coordinate Systems</h2>
+	<table class="side-by-side">
+		<tr>
+			<td>
+				<img src="media/lecture06/3D-system.png" />
+			</td>
+			<td>
+				<p><strong>Rectangular</strong>: (x, y, z)</p>
+				<p><strong>Cylindrical</strong>: (r<sub>c</sub>, θ, z)</p>
+				<p><strong>Spherical</strong>: (r<sub>s</sub>, θ, φ)</p>
+			</td>
+		</tr>
+	</table>
+</section>
+
+<section class="slide">
+	<h2>Conventions</h2>
+	<p>Right handed systems are the dominant convention.</p>
+	<a href="http://en.wikipedia.org/w/index.php?title=File:Cartesian_coordinate_system_handedness.svg">
+		<img src="media/lecture06/cartesian-handedness.png" />
+	</a>
+</section>
+
+<section class="slide">
+	<h2>Coordinate planes</h2>
+	<img src="media/lecture06/planes.png" />
+</section>
+
+<section class="slide">
+	<h2>3D Coordinate Systems</h2>
+	<img src="media/lecture06/3d-cuboid.png" />
+</section>
+
+<section class="slide">
+	<h2>More On Coordinate Systems</h2>
+	<h3>Absolute Coordinates</h3>
+	<p>Coordinate values that always refer back to the origin.</p>
+	<h3>Relative Coordinates</h3>
+	<p>Coordinate values that refer back to a previously defined point or
+	feature.</p>
+</section>
+
+<section class="slide">
+	<h2>Absolute vs. Relative</h2>
+	<img src="media/lecture06/absolute-relative.png" />
+</section>
+
+<section class="slide">
+	<h2>More On Coordinate Systems</h2>
+	<h3>World Coordinates (WCS)</h3>
+	<p>"Stationary" or "Fixed", never changes position or orientation relative to
+	the model.</p>
+	<h3>Local Coordinates (LCS)</h3>
+	<p>Coordinate system defined by the designer or CAD system. May be located
+	and oriented anywhere and in any direction within the World Coordinate
+	System</p>
+</section>
+
+<section class="slide">
+	<h2>World vs. Local</h2>
+	<img src="media/lecture06/world-local.png" />
+</section>
+
+<!-- End slides. -->
+
+<!-- Begin extension snippets. Add or remove as needed. -->
+
+<!-- deck.navigation snippet -->
+<a href="#" class="deck-prev-link" title="Previous">&#8592;</a>
+<a href="#" class="deck-next-link" title="Next">&#8594;</a>
+
+<!-- deck.status snippet -->
+<p class="deck-status">
+	<span class="deck-status-current"></span>
+	/
+	<span class="deck-status-total"></span>
+</p>
+
+<!-- deck.goto snippet -->
+<form action="." method="get" class="goto-form">
+	<label for="goto-slide">Go to slide:</label>
+	<input type="text" name="slidenum" id="goto-slide" list="goto-datalist">
+	<datalist id="goto-datalist"></datalist>
+	<input type="submit" value="Go">
+</form>
+
+<!-- deck.hash snippet -->
+<a href="." title="Permalink to this slide" class="deck-permalink">#</a>
+
+<!-- End extension snippets. -->
+
+
+<!-- Required JS files. -->
+<script src="deck.js/jquery-1.7.2.min.js"></script>
+<script src="deck.js/core/deck.core.js"></script>
+
+<!-- Extension JS files. Add or remove as needed. -->
+<script src="deck.js/core/deck.core.js"></script>
+<script src="deck.js/extensions/hash/deck.hash.js"></script>
+<script src="deck.js/extensions/menu/deck.menu.js"></script>
+<script src="deck.js/extensions/goto/deck.goto.js"></script>
+<script src="deck.js/extensions/status/deck.status.js"></script>
+<script src="deck.js/extensions/navigation/deck.navigation.js"></script>
+<script src="deck.js/extensions/scale/deck.scale.js"></script>
+
+<!-- Initialize the deck. You can put this in an external file if desired. -->
+<script>
+	$(function() {
+		$.deck('.slide');
+	});
+</script>
+</body>
+</html>
