@@ -164,3 +164,10 @@ Books
 =====
 
 - `VizAbility <http://ldt.stanford.edu/~bhavin/viz/>`_
+
+Illusions
+=========
+
+- `Isometric Illusion <https://plus.google.com/u/0/116973436260300431929/posts/KX34FAgeD6U>`_
+- `Escher's Ascending/Descending Animated <http://youtu.be/Xf9QwQ3JM3Q>`_
+- `Man gets stuck in staircase <http://youtu.be/PI-b9ye4RqY>`_
