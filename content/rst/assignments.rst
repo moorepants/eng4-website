@@ -48,6 +48,7 @@ zip file and their file formats can include:
 - Inventor output files (``.ipt``, ``.iam``, ``.idw``, ``.ipn``, ``.pdf``,
   ``.png``)
 
+
 All written assignments must be typewritten or computer generated. Written
 assignments such as essays and reports must be submitted as a *single* pdf
 document for each assignment. No word processing files are permitted (``.doc``,
@@ -55,7 +56,10 @@ document for each assignment. No word processing files are permitted (``.doc``,
 formatted as a professional quality report or paper (i.e. embeded graphics,
 title, author, date information, nice formatting, readable/standard fonts,
 etc). The front page of all pdf documents should include your name, the date,
-your studio section (A01, A02, A03, or A04), and the homework number.
+your studio section (A01, A02, A03, or A04), and the homework number. The
+textbx in the smartsite assignment is only for notes to the instructor and/or
+TAs. Do not type your essays or written work in the textbox, these should only
+be submitted in a pdf.
 
 Inkscape results should be both a ``.svg`` (save/save as) and a ``.png`` file
 (export bitmap). If you use Inkscape to create the graphics for your report or
