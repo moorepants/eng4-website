@@ -5,7 +5,7 @@ All of the classes assignments and due dates will be listed here. Please submit
 them through smartsite Assignments tab. There are several types of assignments:
 
 In Class Assignments
-   There will be short quizzes, group activities and such assigned during the
+   There will be short quizzes, group activities, and such assigned during the
    lecture in which you will turn in by the end of the lecture.
 Lecture Homework
    Homework is assigned weekly and is typically a combination of problems from
@@ -25,61 +25,62 @@ Submission
 ==========
 
 All assignments will be posted to the "Assignments" section on smartsite and
-will allow for digital submission. Paper submission during lecture and studio
-is also permitted, but if you are able to submit **all** of your assignments
-digitally (sketchbook and in-class assignments excluded) and your grade is
-borderline at the end of the quarter I will bump it higher at my discretion.
-You may submit part of your homework digitally and part on paper in class if
-necessary but make a note in the text box in the digital submission that you
-have done so.
+will allow for at least partial digital submission. All paper submissions are
+due at the beginning of class on the due date. Papers must be stapled. All
+digital submissions are due to smartsite before class on the due date.
 
-Digital Submissions must follow these guidelines:
+**All hand drawn sketches must be submitted on paper in class**. This must be
+the original drawing (or a photocopy if you don't want to remove it from your
+sketchbook). Do not scan or photograph these and submit them digitally. If you
+do, only the paper submission will actually be graded. Unless otherwise stated,
+sketches and drawings may be done in your sketchbook, but you must submit a
+copy of them from your sketchbook with your homework. Do not use a computer to
+generate your drawings unless specified. You must include your name, the date,
+your studio section (A01, A02, A03, or A04), and the homework number on all
+paper submissions.
 
-- A single zip file\ [#zip]_ should be attached to the assignment via
-  smartsite. It should contain only pdf(s) documents, image files (``.jpg``,
-  ``.png``), and/or the results from a "Pack and Go" in Inventor. No word
-  processing files are permitted (``.doc``, ``.docx``, ``.odt``); export to pdf
-  if you are unsure.
-- The front page of all pdf documents should include your name, the date, your
-  studio section (A01, A02, A03, or A04), and the homework number.
-- All digital submissions are due to smartsite before class on the due date.
-- Please scan hand drawings if possible. You may also take a photo of the
-  drawing, but it must be clear and legible! Pulling some tips from websites_ on
-  the topic may help you take a decent photograph.
-- Scans and photos of the drawings should have reasonable file sizes (less than
-  about 1mb per drawing). Use a low enough resolution when scanning or
-  converting your images so that they aren't huge files, but high enough so
-  that they remain legible and clear. The free software Gimp_ can be used to
-  change the resolution like many other photo editing software. Scan in grey
-  scale or black/white to reduce file size too.
+All other materials can be submitted digitally by adding them to a single zip
+file\ [#zip]_ and attaching it to the assignment via smartsite. Contents of the
+zip file and their file formats can include:
 
-.. _websites: http://www.subchaser.org/photographing-documents
-.. _Gimp: http://www.gimp.org
+- Written assignments: essays, reports, etc (``.pdf``)
+- Inkscape output files (``.svg``, ``.png``)
+- Inventor output files (``.ipt``, ``.iam``, ``.idw``, ``.ipn``, ``.pdf``,
+  ``.png``)
 
-Paper submissions must follow these guidelines:
+All written assignments must be typewritten or computer generated. Written
+assignments such as essays and reports must be submitted as a *single* pdf
+document for each assignment. No word processing files are permitted (``.doc``,
+``.docx``, ``.odt``); export to pdf if you are unsure. These should be
+formatted as a professional quality report or paper (i.e. embeded graphics,
+title, author, date information, nice formatting, readable/standard fonts,
+etc). The front page of all pdf documents should include your name, the date,
+your studio section (A01, A02, A03, or A04), and the homework number.
 
-- The front page should include your name, the date, your studio section (A01,
-  A02, A03, or A04), and the homework number.
-- Papers must be stapled.
-- All paper submissions are due at the beginning of class on the due date.
+Inkscape results should be both a ``.svg`` (save/save as) and a ``.png`` file
+(export bitmap). If you use Inkscape to create the graphics for your report or
+other written assignment you must embedded the graphic into the pdf file.
+
+Inventor files must be in a self-contained folder within the single zip file.
+The easiest way to guarantee that all your inventor files for a single project
+are there is to use the Pack and Go option. Follow the `Pack and Go tutorial`_
+do this. You can export your ``.idw` and ``.ipn`` files as pdf documents and
+also export screenshots of your models to ``.png`` format for inclusion into
+reports.
+
+If you are able to submit **all** of your assignments digitally (sketches and
+in-class assignments excluded) and your grade is borderline at the end of the
+quarter I will bump it higher at my discretion.
 
 You will lose points if you do not follow these submission rules.
 
-General Guidelines
-==================
-
-- All numbered problems are from Bertoline et. al, 6th Edition.
-- Italicized text indicates a modified problem statement.
-- All essay or written assignments must be typewritten or computer generated.
-- Unless otherwise stated, sketches and drawings may be done in your
-  sketchbook, but you must submit a copy of them from your sketchbook with your
-  homework.
-- Do not use a computer to generate your drawings unless specified.
-
-You will lose points if you do not follow these guidelines!
+.. _Pack and Go tutorial: packandgo.html
 
 Lecture Homeworks
 =================
+
+All numbered problems are from Bertoline et. al, 6th Edition. Italicized text
+indicates a modified problem statement.
 
 - `Homework #1 <lhw01.html>`_ [Due October 9]
 - `Homework #2 <lhw02.html>`_ [Due October 16]
