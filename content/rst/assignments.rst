@@ -84,6 +84,7 @@ Lecture Homeworks
 - `Homework #1 <lhw01.html>`_ [Due October 9]
 - `Homework #2 <lhw02.html>`_ [Due October 16]
 - `Homework #3 <lhw03.html>`_ [Due October 23]
+- `Homework #4 <lhw04.html>`_ [Due October 30]
 
 .. rubric:: Footnotes
 

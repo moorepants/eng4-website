@@ -1,3 +1,43 @@
+Midterm Sample Questions
+========================
+
+The midterm will be Thursday November 1 @ 12:10 PM in Wellman 6.
+
+`[Sample Problems] <midterm-samples.html>`_
+
+UCD 3D Modeling Club
+====================
+
+If you enjoy solid modeling and drafting, check out the 3DMD: UC Davis 3-D
+Modeling and Design Club http://ucd3dmd.blogspot.com/
+
+The 3D modeling club here at Davis is going to offer extra office hours to help
+you with the Inventor software. Students will be available to answer your
+questions during the office hours.
+
+3DMD Inventor Office Hours:
+
+| Wednesday 5-6 pm
+| Thursday 6-7 pm
+| Room Academic Surge 1044
+|
+
+Club Info:
+
+3-D Modeling and Design (3DMD) is a UC Davis student club that seeks to teach
+students design software, promote design, and connect students with Industry
+who are involved with CAD software. Our club is most commonly known for hosting
+free weekly office hours and monthly workshops on campus to teach Inventor and
+other related Autodesk software to students.  The club is sponsored by
+Autodesk, which essentially means free swag and pizza at major events.
+Occasionally, we also have Autodesk employees come to give presentations and
+workshops.
+
+Students can also email the club with project questions or even general CAD
+software questions (ucd3dmd@gmail.com).  To hear about all our events, students
+are strongly encouraged to send us an email with their name to be added to our
+email list, or to like us on Facebook http://www.facebook.com/ucd3dmd/.
+
 Textbook
 ========
 
@@ -153,12 +193,6 @@ Free Models and Content
 .. _Thingiverse: http://www.thingiverse.com/
 .. _SketchUp Warehouse: http://sketchup.google.com/3dwarehouse/
 .. _Shapeways: http://www.shapeways.com
-
-UCD 3D Modeling Club
-====================
-
-If you enjoy solid modeling and drafting, check out the 3DMD: UC Davis 3-D
-Modeling and Design Club http://ucd3dmd.blogspot.com/
 
 Books
 =====

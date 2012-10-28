@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=1024, user-scalable=no">
 
-	<title>ENG 004 - Lecture #6</title>
+	<title>ENG 004 - Lecture #9</title>
 
 	<!-- Required stylesheet -->
 	<link rel="stylesheet" href="deck.js/core/deck.core.css">
@@ -37,100 +37,146 @@
 <!-- Begin slides. Just make elements with a class of slide. -->
 
 <section class="slide" class="title-slide">
-	<h2>ENG 004 Lecture 6, Oct 16, 2012</h2>
+	<h2>ENG 004 Lecture 9, Oct 25, 2012</h2>
 	<h3>Announcements</h3>
 	<ul>
-		<li>Turn in Homework #2 now.</li>
-		<li>Read Chapter 3</li>
-		<li>Homework #3 will be available after class</li>
-		<li>No office hours Thursday, Oct 18</li>
-		<li>Guest lecturer(s) on Thursday</li>
+		<li>Homework #4 due Tuesday: Any questions?</li>
+		<li>Midterm is one week from today: Thursday, November 1</li>
+		<li>Some practice graphics problems with solutions will be posted this
+		weekend</li>
+		<li>Midterm will cover all of Chapters 1, 2, 3, 4, 5, lecture material, and
+		studio material.</li>
+		<li>Last in-class assignment grades and solution will be posted soon.</li>
 	</ul>
 	<h3>Topics</h3>
-	<p>Use of Grids</p>
-	<p>Geometric Modeling</p>
-	<p>Coordinates</p>
+	<p>Oblique lines</p>
+	<p>Runouts, intersection of cylinders</p>
+	<p>Minimum # of views</p>
+	<p>Revolution conventions</p>
+	<p>Constraints</p>
+	<p>Basic Features: Extrude, Sweep, Revolve, Loft</p>
+	<p>Advanced Features: Holes, fillets, chamfers</p>
 </section>
 
 <section class="slide">
-	<h2>Geometric Modeling</h2>
-	<h3>Units of Measure</h3>
-	<ul>
-		<li>US Customary: [in]</li>
-		<li>International System of Units, SI (metric): [mm]</li>
-	</ul>
-	<h3>Coordinates</h3>
-	<p>In practice, Cartesian coordinates are default in most CAD packages.</p>
-	<p>Also the right-handed orientation is used.</p>
+	<h2>Oblique Lines</h2>
+	<img src="media/lecture09/oblique-line-01.png" />
 </section>
 
 <section class="slide">
-	<h2>Cartesian Coordinate System</h2>
-	<a href="http://en.wikipedia.org/w/index.php?title=File:Cartesian-coordinate-system.svg">
-		<img src="media/lecture06/cartesian-coordinate-system.png" />
-	</a>
+	<h2>Oblique Lines</h2>
+	<img src="media/lecture09/oblique-line-02.png" />
 </section>
 
 <section class="slide">
-	<h2>2D Coordinate Systems</h2>
+	<h2>Oblique Lines</h2>
 	<table class="side-by-side">
 		<tr>
-			<td>
-				<img src="media/lecture06/polar.png" />
-			</td>
-			<td>
-				<p><strong>Rectangular</strong>: (x, y)</p>
-				<p><strong>Polar</strong>: (r, θ)</p>
-			</td>
+			<td><img src="media/lecture09/problem-5-120-20-multi.png" /></td>
+			<td><img src="media/lecture09/problem-5-120-20-iso.png" /></td>
 		</tr>
 	</table>
 </section>
 
 <section class="slide">
-	<h2>2D Coordinate Systems</h2>
-	<img src="media/lecture06/2d-rectangle.png" />
+	<h2>Fillets/Rounds and Runouts</h2>
+	<img src="media/lecture09/tangent-runout.png" />
 </section>
 
 <section class="slide">
-	<h2>3D Coordinate Systems</h2>
+	<h2>Minimum Number of Views</h2>
+	<img src="media/lecture09/min-views.png" />
+</section>
+
+<section class="slide">
+	<h2>Revolution Conventions</h2>
+	<img src="media/lecture09/revolution-conventions.png" />
+</section>
+
+<section class="slide">
+	<h2>Bolted Connections</h2>
+	<img src="media/lecture09/assembled-bolted-joint.png" />
+</section>
+
+<section class="slide">
+	<h2>Bolted Connections</h2>
+	<img src="media/lecture09/bolts.png" />
+</section>
+
+<section class="slide">
+	<h2>Holes</h2>
+	<img src="media/lecture09/hole-types.png" />
+</section>
+
+<section class="slide">
+	<h2>Holes: Through and Blind</h2>
 	<table class="side-by-side">
 		<tr>
-			<td>
-				<img src="media/lecture06/3D-system.png" />
-			</td>
-			<td>
-				<p><strong>Rectangular</strong>: (x, y, z)</p>
-				<p><strong>Cylindrical</strong>: (r<sub>c</sub>, θ, z)</p>
-				<p><strong>Spherical</strong>: (r<sub>s</sub>, θ, φ)</p>
-			</td>
+			<td><img src="media/lecture09/hole-through-blind.png" /></td>
+			<td><img src="media/lecture09/drill-bit.jpg" /></td>
 		</tr>
 	</table>
 </section>
 
 <section class="slide">
-	<h2>Conventions</h2>
-	<p>Right handed systems are the dominant convention.</p>
-	<a href="http://en.wikipedia.org/w/index.php?title=File:Cartesian_coordinate_system_handedness.svg">
-		<img src="media/lecture06/cartesian-handedness.png" />
-	</a>
+	<h2>Holes: Countersink</h2>
+	<table class="side-by-side">
+		<tr>
+			<td><img src="media/lecture09/hole-countersink.png" /></td>
+			<td><img src="media/lecture09/countersink.jpg" /></td>
+		</tr>
+	</table>
 </section>
 
 <section class="slide">
-	<h2>Coordinate planes</h2>
-	<img src="media/lecture06/planes.png" />
+	<h2>Holes: Counterbore</h2>
+	<table class="side-by-side">
+		<tr>
+			<td><img src="media/lecture09/hole-counterbore.png" /></td>
+			<td><img src="media/lecture09/counterbore.jpg" /></td>
+			<td><img src="media/lecture09/sockethead.jpg" /></td>
+		</tr>
+	</table>
 </section>
 
 <section class="slide">
-	<h2>3D Coordinate Systems</h2>
-	<img src="media/lecture06/3d-cuboid.png" />
+	<h2>Holes: Spotface</h2>
+	<img src="media/lecture09/hole-spotface.png" />
 </section>
 
 <section class="slide">
-	<h2>Grid Examples</h2>
-	<h3>Rectangular Grid</h3>
-	<h3>Isometric Grid</h3>
+	<h2>Holes: Threaded</h2>
+	<table class="side-by-side">
+		<tr>
+			<td><img src="media/lecture09/hole-threaded.png" /></td>
+			<td><img src="media/lecture09/tap.jpg" /></td>
+		</tr>
+	</table>
 </section>
 
+<section class="slide">
+	<h2>Extrude (Linear Sweep)</h2>
+	<a href="media/lecture09/extrude.ipt"><img src="media/lecture09/extrude.png" /></a>
+	<p>Click image to download Inventor .ipt file</p>
+</section>
+
+<section class="slide">
+	<h2>Revolve</h2>
+	<a href="media/lecture09/revolve.ipt"><img src="media/lecture09/revolve.png" /></a>
+	<p>Click image to download Inventor .ipt file</p>
+</section>
+
+<section class="slide">
+	<h2>Sweep</h2>
+	<a href="media/lecture09/sweep.ipt"><img src="media/lecture09/sweep.png" /></a>
+	<p>Click image to download Inventor .ipt file</p>
+</section>
+
+<section class="slide">
+	<h2>Loft</h2>
+	<a href="media/lecture09/loft.ipt"><img src="media/lecture09/loft.png" /></a>
+	<p>Click image to download Inventor .ipt file</p>
+</section>
 
 <!-- End slides. -->
 

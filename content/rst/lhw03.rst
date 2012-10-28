@@ -9,7 +9,10 @@ Problem 5.1 (2.5 points)
    object shown in the pictorial. Number each visible surface in each of the
    multiviews to correspond to the numbers given in the pictorial view.
 
-Use the `rectangular grid paper`_ to draw the views.
+*Use the `rectangular grid paper`_ to draw the views. You will have to either
+scale your drawing such that two grid units in the iso drawing equal one unit on
+the rectangular grid or increase the density of your grid by using a grid with
+lines spaced at half the width.*
 
 .. image:: media/images/figure-5-118.png
 

@@ -5,6 +5,8 @@
 - Lecture #5, October 11: `html`__, `pdf`__
 - Lecture #6, October 16: `html`__, `pdf`__
 - Lecture #7, October 18: `html`__, `pdf`__
+- Lecture #8, October 23: `html`__, `pdf`__
+- Lecture #9, October 23: `html`__, `pdf`__
 
 __ lectures/lecture01.html
 __ lectures/media/lecture01.pdf
@@ -20,3 +22,7 @@ __ lectures/lecture06.html
 __ lectures/media/lecture06.pdf
 __ lectures/lecture07.html
 __ lectures/media/lecture07.pdf
+__ lectures/lecture08.html
+__ lectures/media/lecture08.pdf
+__ lectures/lecture09.html
+__ lectures/media/lecture09.pdf
