@@ -57,7 +57,7 @@ formatted as a professional quality report or paper (i.e. embeded graphics,
 title, author, date information, nice formatting, readable/standard fonts,
 etc). The front page of all pdf documents should include your name, the date,
 your studio section (A01, A02, A03, or A04), and the homework number. The
-textbx in the smartsite assignment is only for notes to the instructor and/or
+textbox in the smartsite assignment is only for notes to the instructor and/or
 TAs. Do not type your essays or written work in the textbox, these should only
 be submitted in a pdf.
 
@@ -68,7 +68,7 @@ other written assignment you must embedded the graphic into the pdf file.
 Inventor files must be in a self-contained folder within the single zip file.
 The easiest way to guarantee that all your inventor files for a single project
 are there is to use the Pack and Go option. Follow the `Pack and Go tutorial`_
-do this. You can export your ``.idw` and ``.ipn`` files as pdf documents and
+do this. You can export your ``.idw`` and ``.ipn`` files as pdf documents and
 also export screenshots of your models to ``.png`` format for inclusion into
 reports.
 
