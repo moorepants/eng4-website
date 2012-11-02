@@ -42,3 +42,12 @@ sure to darken you lines. (Hidden lines need not be shown.)
 
 .. image:: media/images/midterm-sample-iso-01.png
    :target: media/images/midterm-sample-iso-01-solution.jpg
+
+Problem 5.120 (20)
+==================
+
+This is the solution to the oblique line projection for problem 5.120 (20)
+showing how constructions lines and the miter line are used to create the top
+view.
+
+.. image:: media/images/oblique-lines.png

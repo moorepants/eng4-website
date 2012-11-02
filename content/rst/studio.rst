@@ -85,3 +85,5 @@ projects for submission.
    have a valid copy of Windows.
 
 .. _Mac FAQ: http://images.autodesk.com/adsk/files/autodesk_inventor_on_the_macintosh_faq_041410.pdf
+
+.. include:: project.rst

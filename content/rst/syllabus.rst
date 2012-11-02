@@ -183,15 +183,15 @@ Oct 23      ''                                       ''               HW #3 Due
 Oct 25      Multi-View Standards                     Chapter 5
 Oct 30      ''                                       ''               HW #4 Due
 **Nov 1**   **Midterm**
-Nov 6       Design Documentation                     Chapters 9 & 11  HW #5 Due
+Nov 6       Design Documentation                     Chapters 9 & 11
 Nov 8       Dimensioning and Tolerancing             ''
-Nov 13      ''                                       ''               HW #6 Due
+Nov 13      ''                                       ''               HW #5 Due
 Nov 15      Geometric Dimensioning & Tolerancing     Chapter 10
-Nov 20      ''                                       ''               HW #7 Due
+Nov 20      ''                                       ''               HW #6 Due
 Nov 22      Thanksgiving Holiday
-Nov 27      Auxiliary and Section Views              Chapters 6 & 8   HW #8 Due
+Nov 27      Auxiliary and Section Views              Chapters 6 & 8   HW #7 Due
 Nov 29      ''                                       ''
-Dec 4       Pictorial Projections                    Chapter 7        HW #9 Due
+Dec 4       Pictorial Projections                    Chapter 7        HW #8 Due
 Dec 6       Plotting
 **Dec 14**  **Final Exam**                                            8-10 AM
 ==========  =======================================  ===============  =====

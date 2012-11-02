@@ -7,6 +7,7 @@
 - Lecture #7, October 18: `html`__, `pdf`__
 - Lecture #8, October 23: `html`__, `pdf`__
 - Lecture #9, October 23: `html`__, `pdf`__
+- Lecture #10, October 30: `html`__, `pdf`__
 
 __ lectures/lecture01.html
 __ lectures/media/lecture01.pdf
@@ -26,3 +27,5 @@ __ lectures/lecture08.html
 __ lectures/media/lecture08.pdf
 __ lectures/lecture09.html
 __ lectures/media/lecture09.pdf
+__ lectures/lecture10.html
+__ lectures/media/lecture10.pdf

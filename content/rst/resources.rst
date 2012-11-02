@@ -1,7 +1,7 @@
 Midterm Sample Questions
 ========================
 
-The midterm will be Thursday November 1 @ 12:10 PM in Wellman 6.
+The midterm will be Thursday November 1 @ 12:10 PM in Young 198.
 
 `[Sample Problems] <midterm-samples.html>`_
 
