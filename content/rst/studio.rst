@@ -77,6 +77,8 @@ projects for submission.
 
 .. _these instructions: packandgo.html
 
+.. include:: project.rst
+
 .. rubric:: Footnotes
 
 .. [#mac] Inventor is only available for Windows, but Macintosh and Linux users may
@@ -85,5 +87,3 @@ projects for submission.
    have a valid copy of Windows.
 
 .. _Mac FAQ: http://images.autodesk.com/adsk/files/autodesk_inventor_on_the_macintosh_faq_041410.pdf
-
-.. include:: project.rst

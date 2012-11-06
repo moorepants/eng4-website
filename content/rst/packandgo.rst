@@ -21,6 +21,12 @@ performing the Pack and Go on.
 
 .. image:: media/images/packandgo-window.png
 
+When using pack and go, please select the following under options: "Copy to
+Single Path", "Model Files Only", "Skip Styles", and "Skip Templates" This gets
+rid of A LOT of extra files that make the files really large.
+
+.. image:: media/images/packandgo-options.png
+
 Select the "Search Now" button to locate all of the files connected to the
 active project file and that are associated with your assembly.
 
