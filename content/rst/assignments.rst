@@ -48,7 +48,6 @@ zip file and their file formats can include:
 - Inventor output files (``.ipt``, ``.iam``, ``.idw``, ``.ipn``, ``.pdf``,
   ``.png``)
 
-
 All written assignments must be typewritten or computer generated. Written
 assignments such as essays and reports must be submitted as a *single* pdf
 document for each assignment. No word processing files are permitted (``.doc``,
