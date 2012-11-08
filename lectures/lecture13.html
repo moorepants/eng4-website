@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=1024, user-scalable=no">
+
+	<title>ENG 004 - Lecture #13</title>
+
+	<!-- Required stylesheet -->
+	<link rel="stylesheet" href="deck.js/core/deck.core.css">
+
+	<!-- Extension CSS files go here. Remove or add as needed. -->
+	<link rel="stylesheet" href="deck.js/extensions/goto/deck.goto.css">
+	<link rel="stylesheet" href="deck.js/extensions/menu/deck.menu.css">
+	<link rel="stylesheet" href="deck.js/extensions/navigation/deck.navigation.css">
+	<link rel="stylesheet" href="deck.js/extensions/status/deck.status.css">
+	<link rel="stylesheet" href="deck.js/extensions/hash/deck.hash.css">
+	<link rel="stylesheet" href="deck.js/extensions/scale/deck.scale.css">
+
+	<!-- Style theme. More available in /themes/style/ or create your own. -->
+	<link rel="stylesheet" href="deck.js/themes/style/swiss.css">
+
+	<!-- Transition theme. More available in /themes/transition/ or create your own. -->
+	<link rel="stylesheet" href="deck.js/themes/transition/horizontal-slide.css">
+
+	<!-- Custom styles -->
+	<link rel="stylesheet" href="style.css">
+
+	<!-- Required Modernizr file -->
+	<script src="deck.js/modernizr.custom.js"></script>
+
+</head>
+
+<body class="deck-container">
+
+<!-- Begin slides. Just make elements with a class of slide. -->
+
+<section class="slide" class="title-slide">
+	<h2>ENG 004 Lecture 13, Nov 8, 2012</h2>
+	<h3>Announcements</h3>
+	<ul>
+		<li>Homework #5 due Tuesday, Questions?</li>
+		<li>Read Chapter 9 (through 9.5)</li>
+		</li>
+	</ul>
+	<h3>Topics</h3>
+	<ul>
+		<li>Teamwork</li>
+		<li>Dimensions</li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Dimensioning</h2>
+	<h3>Dimensions</h3>
+	<p>They define the size and/or location of a feature.</p>
+	<p>All features must have a dimension associated with it.</p>
+	<h3>Datum</h3>
+	<p>A point or origin of a reference frame.</p>
+	<h3>Units of Measure</h3>
+	<p>You must specify the units of measure: inches, millimeters, degrees,
+	radians, etc.</p>
+	<h3>Tolerances</h3>
+	<p>An allowable deviation in size, location, and/or geometry of a feature.</p>
+	<p>All dimensions must have a tolerance associated with it.</p>
+</section>
+
+<section class="slide">
+	<h2>Dimension Guidelines</h2>
+	<p>Adopted from ANSI Y 14.5M-1994</p>
+	<ul>
+		<li>Each dimension shall indicate the allowable variation in size, i.e., a
+		tolerance, unless the dimensions is a reference dimension or a basic
+		dimension</li>
+		<li>All features must be fully dimensioned so that there is no ambiguity of
+		the feature's size, location, and form (geometry or shape)</li>
+		<li>All dimensions required to document the design are necessary, however,
+		only a necessary set of dimensions should be used. That is, no redundant
+		dimensioning. All dimensions should be directly referenced to the view with
+		the most detail of the feature.</li>
+		<li>Dimensions shall be selected and arranged to suit the function of the
+		feature or its relationship to other features and shall not be interpreted
+		to more than one interpretation.</li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Dimension Guidelines Continued</h2>
+	<ul>
+		<li>The drawing shall not specify the method of manufacture. If this
+		information is required, it shall be specified in a specification document
+		referenced on the drawing</li>
+		<li>Dimensions shall be shown in true size using orthographic multi-views
+		and/or auxiliary views.</li>
+		<li>Wires, cables, sheets, etc. shall be specified by linear dimensions
+		indicating the object's diameter or thickness.</li>
+		<li>A 90° angle is implied at locations shown on a drawing at right angles
+		and no angle is specified.</li>
+		<li>All dimensions are applicable at 20° C.</li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Dimension Elements</h2>
+	<img src="media/lecture13/dimension-elements.png" />
+</section>
+
+<section class="slide">
+	<h2>Dimension Details</h2>
+	<img src="media/lecture13/details.png" />
+</section>
+
+<section class="slide">
+	<h2>Dimension Units</h2>
+	<h3>SI Units (mm)</h3>
+	<ul>
+		<li>If the dimension is less that 1 mm, a zero precedes the decimal point:
+		<img class="inline" src="media/lecture13/units-pointfive.png" /></li>
+		<li>If the dimension is a whole number, neither the decimal point nor a
+		zero is shown: <img src="media/lecture13/units-fifteen.png" /></li>
+		<li>If the dimension exceeds a whole number by a decimal fraction of one
+		millimeter, the last digit to the right of the decimal point shall be
+		non-zero:<img class="inline" src="media/lecture13/units-seventeenpointfive.png" /></li>
+		<li>Neither commas nor spaces shall be used to separate digits into groups:
+		<img class="inline" src="media/lecture13/units-tenthousand.png" /></li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Dimension Units</h2>
+	<h3>US Customary Units (decimal inches)</h3>
+	<ul>
+		<li>A zero is not used before a decimal point for values less than one
+		inch: <img class="inline" src="media/lecture13/units-pointtwofive.png" /></li>
+		<li>A dimension is expressed to the same number of decimal places as its
+		tolerance. Zeros are added to the right of the decimal point where
+		necessary: <img class="inline" src="media/lecture13/units-pointtwofivezero.png" /></li>
+		<li>All decimal points used in the above must be clearly visible</li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Dimension Placement</h2>
+	<img src="media/lecture13/dimension-placement.png" />
+</section>
+
+<section class="slide">
+	<h2>Common Symbols</h2>
+	<img src="media/lecture13/common-symbols.png" />
+</section>
+
+<section class="slide">
+	<h2>Extension Lines</h2>
+	<img src="media/lecture13/extension-line-breaks.png" />
+</section>
+
+<section class="slide">
+	<h2>Most Descriptive Views</h2>
+	<img src="media/lecture13/dimension-descriptive-view.png" />
+</section>
+
+<section class="slide">
+	<h2>Extension Lines Not Object Lines</h2>
+	<img src="media/lecture13/extension-not-object.png" />
+</section>
+
+<section class="slide">
+	<h2>Dimensions Outside Object</h2>
+	<img src="media/lecture13/dimension-outside-object.png" />
+</section>
+
+<section class="slide">
+	<h2>Contour Dimensioning</h2>
+	<img src="media/lecture13/contour-dimensioning.png" />
+</section>
+
+<section class="slide">
+	<h2>Datum Dimensioning</h2>
+	<img src="media/lecture13/datum.png" />
+</section>
+
+<section class="slide">
+	<h2>Ordinate Dimensioning</h2>
+	<img src="media/lecture13/ordinate.png" />
+</section>
+
+<section class="slide">
+	<h2>Over Dimensioning</h2>
+	<img src="media/lecture13/over-dimension.png" />
+</section>
+
+<section class="slide">
+	<h2>Stagger Dimensions</h2>
+	<img src="media/lecture13/stagger.png" />
+</section>
+
+<section class="slide">
+	<h2>Dimensioning Center Lines</h2>
+	<img src="media/lecture13/center-line-dimensions.png" />
+</section>
+
+<section class="slide">
+	<h2>Radial Leaders</h2>
+	<img src="media/lecture13/radial-leaders.png" />
+</section>
+
+<section class="slide">
+	<h2>Holes</h2>
+	<img src="media/lecture13/holes.png" />
+</section>
+
+<section class="slide">
+	<h2>Threads</h2>
+	<img src="media/lecture13/threads.png" />
+	<img src="media/lecture13/bolt-nut.png" />
+</section>
+
+<section class="slide">
+	<h2>Tables</h2>
+	<img src="media/lecture13/ordinate-table.png" />
+</section>
+
+<section class="slide">
+	<h2>Multiplicity</h2>
+	<img src="media/lecture13/multiplicity.png" />
+</section>
+
+<section class="slide">
+	<h2>Typical</h2>
+	<img src="media/lecture13/typical.png" />
+</section>
+
+<section class="slide">
+	<h2>Keyway</h2>
+	<img src="media/lecture13/keyway.png" />
+</section>
+
+<section class="slide">
+	<h2>Drawing Review</h2>
+	<a href="media/lecture01/cell shearer/CELL SHEARER 11-12-08.pdf">Cell Shearer</a>
+</section>
+
+<!-- End slides. -->
+
+<!-- Begin extension snippets. Add or remove as needed. -->
+
+<!-- deck.navigation snippet -->
+<a href="#" class="deck-prev-link" title="Previous">&#8592;</a>
+<a href="#" class="deck-next-link" title="Next">&#8594;</a>
+
+<!-- deck.status snippet -->
+<p class="deck-status">
+	<span class="deck-status-current"></span>
+	/
+	<span class="deck-status-total"></span>
+</p>
+
+<!-- deck.goto snippet -->
+<form action="." method="get" class="goto-form">
+	<label for="goto-slide">Go to slide:</label>
+	<input type="text" name="slidenum" id="goto-slide" list="goto-datalist">
+	<datalist id="goto-datalist"></datalist>
+	<input type="submit" value="Go">
+</form>
+
+<!-- deck.hash snippet -->
+<a href="." title="Permalink to this slide" class="deck-permalink">#</a>
+
+<!-- End extension snippets. -->
+
+
+<!-- Required JS files. -->
+<script src="deck.js/jquery-1.7.2.min.js"></script>
+<script src="deck.js/core/deck.core.js"></script>
+
+<!-- Extension JS files. Add or remove as needed. -->
+<script src="deck.js/core/deck.core.js"></script>
+<script src="deck.js/extensions/hash/deck.hash.js"></script>
+<script src="deck.js/extensions/menu/deck.menu.js"></script>
+<script src="deck.js/extensions/goto/deck.goto.js"></script>
+<script src="deck.js/extensions/status/deck.status.js"></script>
+<script src="deck.js/extensions/navigation/deck.navigation.js"></script>
+<script src="deck.js/extensions/scale/deck.scale.js"></script>
+
+<!-- Initialize the deck. You can put this in an external file if desired. -->
+<script>
+	$(function() {
+		$.deck('.slide');
+	});
+</script>
+</body>
+</html>
