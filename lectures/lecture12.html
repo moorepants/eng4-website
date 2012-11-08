@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=1024, user-scalable=no">
+
+	<title>ENG 004 - Lecture #12</title>
+
+	<!-- Required stylesheet -->
+	<link rel="stylesheet" href="deck.js/core/deck.core.css">
+
+	<!-- Extension CSS files go here. Remove or add as needed. -->
+	<link rel="stylesheet" href="deck.js/extensions/goto/deck.goto.css">
+	<link rel="stylesheet" href="deck.js/extensions/menu/deck.menu.css">
+	<link rel="stylesheet" href="deck.js/extensions/navigation/deck.navigation.css">
+	<link rel="stylesheet" href="deck.js/extensions/status/deck.status.css">
+	<link rel="stylesheet" href="deck.js/extensions/hash/deck.hash.css">
+	<link rel="stylesheet" href="deck.js/extensions/scale/deck.scale.css">
+
+	<!-- Style theme. More available in /themes/style/ or create your own. -->
+	<link rel="stylesheet" href="deck.js/themes/style/swiss.css">
+
+	<!-- Transition theme. More available in /themes/transition/ or create your own. -->
+	<link rel="stylesheet" href="deck.js/themes/transition/horizontal-slide.css">
+
+	<!-- Custom styles -->
+	<link rel="stylesheet" href="style.css">
+
+	<!-- Required Modernizr file -->
+	<script src="deck.js/modernizr.custom.js"></script>
+
+</head>
+
+<body class="deck-container">
+
+<!-- Begin slides. Just make elements with a class of slide. -->
+
+<section class="slide" class="title-slide">
+	<h2>ENG 004 Lecture 12, Nov 6, 2012</h2>
+	<h3>Announcements</h3>
+	<ul>
+		<li>Midterm grades are posted</li>
+		<li>Lecture schedule updated</li>
+		<li>Homework #5 available after class</li>
+		<li>Homework submission changes</li>
+		<li>Office hours</li>
+	</ul>
+	<h3>Topics</h3>
+	<ul>
+		<li>3D Constraints: sketch planes/assemblies</li>
+		<li>Projection theory</li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Midterm Overview - Histogram</h2>
+	<img src="media/lecture12/midterm-hist.png" />
+</section>
+
+<section class="slide">
+	<h2>Midterm Overview - Stats</h2>
+<table border="1" class="numeric">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Mean</th>
+      <th>Std</th>
+      <th>Median</th>
+      <th>Max</th>
+      <th>Min</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Problem 1</strong></td>
+      <td> 15.450000</td>
+      <td>  1.982486</td>
+      <td> 15</td>
+      <td> 20</td>
+      <td> 10</td>
+    </tr>
+    <tr>
+      <td><strong>Problem 2</strong></td>
+      <td>  9.041667</td>
+      <td>  1.692275</td>
+      <td> 10</td>
+      <td> 10</td>
+      <td>  2</td>
+    </tr>
+    <tr>
+      <td><strong>Problem 3</strong></td>
+      <td> 11.633333</td>
+      <td>  7.368948</td>
+      <td> 12</td>
+      <td> 20</td>
+      <td>  0</td>
+    </tr>
+    <tr>
+      <td><strong>Problem 4</strong></td>
+      <td> 18.141667</td>
+      <td>  4.654980</td>
+      <td> 19</td>
+      <td> 24</td>
+      <td>  4</td>
+    </tr>
+    <tr>
+      <td><strong>Problem 5</strong></td>
+      <td> 21.975000</td>
+      <td>  4.785241</td>
+      <td> 23</td>
+      <td> 26</td>
+      <td>  0</td>
+    </tr>
+    <tr>
+      <td><strong>Total Score</strong></td>
+      <td> 76.241667</td>
+      <td> 14.272849</td>
+      <td> 77</td>
+      <td> 98</td>
+      <td> 29</td>
+    </tr>
+  </tbody>
+</table>
+</section>
+
+<section class="slide">
+	<h2>Midterm Overview - Box Plots</h2>
+	<img src="media/lecture12/midterm-boxplot.png" />
+</section>
+
+<section class="slide">
+	<h2>Sketch Plane Orientation</h2>
+	<img src="media/lecture12/plane-constraints.png" />
+</section>
+
+<section class="slide">
+	<h2>Assembly Constraints</h2>
+	<h3>Mate</h3>
+	<p>Two surfaces associated with difference objects are set coplanar with
+	directional vectors in opposing directions</p>
+	<h3>Align (Flush)</h3>
+	<p>Two surfaces associated with different objects are set coplanar with
+	directional vectors in the same direction</p>
+	<img src="media/lecture12/mate-flush.png" />
+</section>
+
+<section class="slide">
+	<h2>Assembly Constraints</h2>
+	<h3>Offset</h3>
+	<p>Same as Mate/Align except the planes are not coplanar but parallel, with
+	an offset distance between them</p>
+	<img src="media/lecture12/offset.png" />
+</section>
+
+<section class="slide">
+	<h2>Assembly Constraints</h2>
+	<h3>Align Axis</h3>
+	<p>Axes of two parts are constrained to be colinear</p>
+	<img src="media/lecture12/align-axis.png" />
+</section>
+
+<section class="slide">
+	<h2>Assembly Constraints</h2>
+	<h3>Tangency</h3>
+	<p>Two surfaces are constrained to be tangent to each other either at a
+	single point or along a line.</p>
+	<img src="media/lecture12/tangency.png" />
+</section>
+
+<section class="slide">
+	<h2>Assembly Constraints</h2>
+	<h3>Angluar</h3>
+	<p>Two planes are angled relative to each other.</p>
+	<img src="media/lecture12/angular.png" />
+</section>
+
+<section class="slide">
+	<h2>Projections</h2>
+	<p>Rotated about one or two axes relative to the picture plane.</p>
+	<img src="media/lecture12/projections.png" />
+</section>
+
+<section class="slide">
+	<h2>Axonometric</h2>
+	<img src="media/lecture12/axonometric.png" />
+</section>
+
+<section class="slide">
+	<h2>ISO Drawing Tips</h2>
+	<p>Sections 7.2-7.8</p>
+</section>
+
+<!-- End slides. -->
+
+<!-- Begin extension snippets. Add or remove as needed. -->
+
+<!-- deck.navigation snippet -->
+<a href="#" class="deck-prev-link" title="Previous">&#8592;</a>
+<a href="#" class="deck-next-link" title="Next">&#8594;</a>
+
+<!-- deck.status snippet -->
+<p class="deck-status">
+	<span class="deck-status-current"></span>
+	/
+	<span class="deck-status-total"></span>
+</p>
+
+<!-- deck.goto snippet -->
+<form action="." method="get" class="goto-form">
+	<label for="goto-slide">Go to slide:</label>
+	<input type="text" name="slidenum" id="goto-slide" list="goto-datalist">
+	<datalist id="goto-datalist"></datalist>
+	<input type="submit" value="Go">
+</form>
+
+<!-- deck.hash snippet -->
+<a href="." title="Permalink to this slide" class="deck-permalink">#</a>
+
+<!-- End extension snippets. -->
+
+
+<!-- Required JS files. -->
+<script src="deck.js/jquery-1.7.2.min.js"></script>
+<script src="deck.js/core/deck.core.js"></script>
+
+<!-- Extension JS files. Add or remove as needed. -->
+<script src="deck.js/core/deck.core.js"></script>
+<script src="deck.js/extensions/hash/deck.hash.js"></script>
+<script src="deck.js/extensions/menu/deck.menu.js"></script>
+<script src="deck.js/extensions/goto/deck.goto.js"></script>
+<script src="deck.js/extensions/status/deck.status.js"></script>
+<script src="deck.js/extensions/navigation/deck.navigation.js"></script>
+<script src="deck.js/extensions/scale/deck.scale.js"></script>
+
+<!-- Initialize the deck. You can put this in an external file if desired. -->
+<script>
+	$(function() {
+		$.deck('.slide');
+	});
+</script>
+</body>
+</html>

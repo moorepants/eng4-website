@@ -22,3 +22,11 @@ table.side-by-side td {
 .upper-padding {
 	padding-top: 3cm;
 }
+
+table.numeric td {
+	padding:20px
+}
+
+img.inline {
+	vertical-align: middle
+}

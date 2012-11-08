@@ -51,7 +51,7 @@ Instructor
 | Dr. Jason K. Moore
 | 2013 Bainer Hall
 | jkmoor@ucdavis.edu
-| Office Hours: T and R 1:00-2:00 PM, or by appointment
+| Office Hours: T 5:00-6:00 PM and R 1:00-2:00 PM, or by appointment
 |
 
 Teaching Assistants
@@ -82,9 +82,9 @@ A04      Yuriy Zrodnikov  Kevin Uy         R 2:10-5:00   1116 Academic Surge  Oc
 Office Hours
 ============
 
-I will be available in my office during office hours (Tuesday and Thursday
-1:00-2:00 PM, or by appointment) and via the smartsite chatroom, smartsite
-forum, and normal email during that time period.
+I will be available in my office during office hours (Tuesday 5:00-6:00 PM and
+Thursday 1:00-2:00 PM, or by appointment) and via the smartsite chatroom,
+smartsite forum, and normal email during that time period.
 
 Academic Integrity
 ==================
@@ -183,16 +183,16 @@ Oct 23      ''                                       ''               HW #3 Due
 Oct 25      Multi-View Standards                     Chapter 5
 Oct 30      ''                                       ''               HW #4 Due
 **Nov 1**   **Midterm**
-Nov 6       Design Documentation                     Chapters 9 & 11
-Nov 8       Dimensioning and Tolerancing             ''
+Nov 6       Assemblies, Pictorial Projections        Chapter 7
+Nov 8       Dimensioning and Tolerancing             Chapter 9
 Nov 13      ''                                       ''               HW #5 Due
 Nov 15      Geometric Dimensioning & Tolerancing     Chapter 10
-Nov 20      ''                                       ''               HW #6 Due
+Nov 20      Design Documentation                     Chapter 11       HW #6 Due
 Nov 22      Thanksgiving Holiday
-Nov 27      Auxiliary and Section Views              Chapters 6 & 8   HW #7 Due
-Nov 29      ''                                       ''
-Dec 4       Pictorial Projections                    Chapter 7        HW #8 Due
-Dec 6       Plotting
+Nov 27      Auxilary Views                           Chapter 6        HW #7 Due
+Nov 29      Section Views                            Chapter 8
+Dec 4       Plotting, charts, figures                                 HW #8 Due
+Dec 6       Random topics, review
 **Dec 14**  **Final Exam**                                            8-10 AM
 ==========  =======================================  ===============  =====
 
@@ -217,8 +217,7 @@ the second official day of lab.
 7  Begin project modeling - Organized Studio.
 8  Work on project modeling - No organized studio but TAs are
    available.
-9  Projects due at end of lab period, no organized studio but
-   are TAs available.
+9  Projects due one hour before end of lab period, final hour presentations
 =  =========================================================
 
 Assignments & Grades
