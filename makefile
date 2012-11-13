@@ -5,8 +5,7 @@ destination=/home/grads/biosport/public_html/jkm/courses/eng4/
 lectures=lectures/
 
 push:
-	rm -rf deploy
-	hyde gen -c prod.yaml
+	hyde gen -r -c prod.yaml
 	python gen_lecture_pdfs.py
 	rsync -r -t -v --progress $(source) $(username)@$(server):$(destination)
 	rsync -r -t -v --delete --progress --exclude=".*" $(lectures) $(username)@$(server):$(destination)$(lectures)
