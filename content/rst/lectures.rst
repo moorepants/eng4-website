@@ -11,6 +11,7 @@
 - Lecture #11, November 1: Midterm
 - Lecture #12, November 6: `html`__, `pdf`__
 - Lecture #13, November 8: `html`__, `pdf`__
+- Lecture #14, November 13: `html`__, `pdf`__
 
 __ lectures/lecture01.html
 __ lectures/media/lecture01.pdf
@@ -36,3 +37,5 @@ __ lectures/lecture12.html
 __ lectures/media/lecture12.pdf
 __ lectures/lecture13.html
 __ lectures/media/lecture13.pdf
+__ lectures/lecture14.html
+__ lectures/media/lecture14.pdf
