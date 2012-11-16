@@ -90,6 +90,7 @@ indicates a modified problem statement.
 - `Homework #3 <lhw03.html>`_ [Due October 23]
 - `Homework #4 <lhw04.html>`_ [Due October 30]
 - `Homework #5 <lhw05.html>`_ [Due November 13]
+- `Homework #6 <lhw06.html>`_ [Due November 20]
 
 .. rubric:: Footnotes
 
