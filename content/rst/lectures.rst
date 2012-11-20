@@ -13,6 +13,7 @@
 - Lecture #13, November 8: Teamwork, Dimensions [`html`__][`pdf`__]
 - Lecture #14, November 13: Tolerances [`html`__][`pdf`__]
 - Lecture #15, November 15: Geometric Dimensioning and Tolerancing [`html`__][`pdf`__]
+- Lecture #16, November 20: Geometric Dimensioning and Tolerancing and working drawings [`html`__][`pdf`__]
 
 __ lectures/lecture01.html
 __ lectures/media/lecture01.pdf
@@ -42,3 +43,5 @@ __ lectures/lecture14.html
 __ lectures/media/lecture14.pdf
 __ lectures/lecture15.html
 __ lectures/media/lecture15.pdf
+__ lectures/lecture16.html
+__ lectures/media/lecture16.pdf

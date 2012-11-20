@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=1024, user-scalable=no">
+
+	<title>ENG 004 - Lecture #16</title>
+
+	<!-- Required stylesheet -->
+	<link rel="stylesheet" href="deck.js/core/deck.core.css">
+
+	<!-- Extension CSS files go here. Remove or add as needed. -->
+	<link rel="stylesheet" href="deck.js/extensions/goto/deck.goto.css">
+	<link rel="stylesheet" href="deck.js/extensions/menu/deck.menu.css">
+	<link rel="stylesheet" href="deck.js/extensions/navigation/deck.navigation.css">
+	<link rel="stylesheet" href="deck.js/extensions/status/deck.status.css">
+	<link rel="stylesheet" href="deck.js/extensions/hash/deck.hash.css">
+	<link rel="stylesheet" href="deck.js/extensions/scale/deck.scale.css">
+
+	<!-- Style theme. More available in /themes/style/ or create your own. -->
+	<link rel="stylesheet" href="deck.js/themes/style/swiss.css">
+
+	<!-- Transition theme. More available in /themes/transition/ or create your own. -->
+	<link rel="stylesheet" href="deck.js/themes/transition/horizontal-slide.css">
+
+	<!-- Custom styles -->
+	<link rel="stylesheet" href="style.css">
+
+	<!-- Required Modernizr file -->
+	<script src="deck.js/modernizr.custom.js"></script>
+
+</head>
+
+<body class="deck-container">
+
+<!-- Begin slides. Just make elements with a class of slide. -->
+
+<section class="slide" class="title-slide">
+	<h2>ENG 004 Lecture 16, Nov 19, 2012</h2>
+	<h3>Announcements</h3>
+	<ul>
+		<li>Homework #6 due now</li>
+		<li>Homework #7 will be posted this afternoon</li>
+		<li>Read Chapter 11</li>
+		</li>
+	</ul>
+	<h3>Topics</h3>
+	<ul>
+		<li>Geometric Dimensioning and Tolerancing</li>
+		<li>Working Drawings</li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Runout</h2>
+	<img src="media/lecture16/runout.png" />
+</section>
+
+<section class="slide">
+	<h2>Gage Block Example</h2>
+	<img src="media/lecture16/gage-block.png" />
+</section>
+
+<section class="slide">
+	<h2>Five Step Process</h2>
+	<ol>
+		<li>Isolate and define the functions of the feature/part.</li>
+		<li>Prioritize the functions.</li>
+		<li>Identify the datum reference frame based on the functional properties
+		and control the datum features.</li>
+		<li>Select the proper control.</li>
+		<li>Calculate the tolerance values.</li>
+	</ol>
+</section>
+
+<section class="slide">
+	<h2>Rail Mount Example</h2>
+	<img src="media/lecture16/rail-mount.png" />
+</section>
+
+<section class="slide">
+	<h2>Rail Mount Example</h2>
+	<img src="media/lecture16/rail-mount-dimensioned.png" />
+</section>
+
+<section class="slide">
+	<h2>Working Drawings</h2>
+	<h3>Other Names</h3>
+	<p>Detail drawings, production drawings, final drawings</p>
+	<h3>Definition</h3>
+	<p>The complete set of standardized drawings specifying the manufacture and
+	assembly of a product based on its design.</p>
+	<p>Working drawings are either multi-view drawings of a single part providing
+	all the detail necessary to manufacture the part of an assembly drawing
+	showing how previously manufactured parts are put together.
+	<p>Includes: detail drawings of each non-standard part, an assembly or
+	subassembly drawing showing all the standard and nonstandard parts in a
+	single drawing, a bill of materials, a title block.</p>
+	<h3>Assembly drawings</h3>
+	<p>are sometimes represented as an exploded pictorial drawing.</p>
+	<h3>Specifications</h3>
+	<p>Written instructions</p>
+</section>
+
+<section class="slide">
+	<h2>ANSI Paper Size</h2>
+	<a href="http://en.wikipedia.org/wiki/File:ANSI_size_illustration2.svg">
+		<img src="media/lecture16/ansi-paper-size.svg" />
+	</a>
+</section>
+
+<section class="slide">
+	<h2>ISO Paper Size</h2>
+	<a href="http://en.wikipedia.org/wiki/File:A_size_illustration2_with_letter_and_legal.svg">
+		<img src="media/lecture16/iso-paper-size.svg" />
+	</a>
+</section>
+
+<section class="slide">
+	<h2>Scale</h2>
+	<p>Views should be scaled to fit on the paper.</p>
+	<p>Block in boundaries of views to space</p>
+	<p>Stay within the borders</p>
+	<p>Views should be aligned, if not they should be labeled</p>
+	<img src="media/lecture16/scale.png" />
+</section>
+
+<section class="slide">
+	<h2>Common Scales</h2>
+	<table>
+		<tr>
+			<td>
+				<h3>English</h3>
+				<ul>
+					<li>1 = 1: Full</li>
+					<li>1 = 2: Half</li>
+					<li>1 = 4: Quarter</li>
+					<li>1 = 8: Eighth</li>
+					<li>1 = 10: Tenth</li>
+					<li>2 = 1: Double</li>
+				</ul>
+			</td>
+			<td>
+				<h3>Metric</h3>
+				<ul>
+					<li>1:1 Full</li>
+					<li>1:2 Half</li>
+					<li>1:5 Fifth</li>
+					<li>1:10 Tenth</li>
+					<li>1:20 Twentieth</li>
+					<li>1:50 Fiftieth</li>
+					<li>1:100 Hundredth</li>
+				</ul>
+			</td>
+		</tr>
+	</table>
+</section>
+
+<section class="slide">
+	<h2>Title Blocks</h2>
+	<p>Used to record all the important information necessary for the working
+	drawings.</p>
+	<ul>
+		<li>Usually located in the lower right corner</li>
+		<li>ANSI Standards</li>
+		<li>Continuation block on other sheets may not have as much detail as first
+		sheet</li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Common Elements in Title Blocks</h2>
+	<ul>
+		<li>Name and address of Organization/Company</li>
+		<li>Title of the drawing</li>
+		<li>Drawing number</li>
+		<li>Names and dates of the drafters, designer, checker, engineer, issue date,
+		contract number, etc.</li>
+		<li>Design approval</li>
+		<li>Predominant scale</li>
+		<li>Sheet number and sheet size</li>
+		<li>Default tolerances</li>
+		<li>Units of measure</li>
+		<li>Material</li>
+		<li>Special finishes</li>
+		<li>Weight of the item</li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Title Block Standards</h2>
+	<img src="media/lecture16/title-block-standards.png" />
+</section>
+
+<section class="slide">
+	<h2>Example Working Drawings</h2>
+	<ul>
+		<li>revision blocks</li>
+		<li>borders/zone</li>
+		<li>common parts</li>
+		<li>parts list</li>
+		<li>notes</li>
+		<li>hole tables</li>
+		<li>detail views</li>
+		<li>general tolerances</li>
+		<li>exploded view</li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Example Working Drawings</h2>
+	<ul>
+		<li><a href="media/lecture16/14x22-trapeze.pdf">14x22-trapeze.pdf</a></li>
+		<li><a href="media/lecture16/QS-01-01.pdf">QS-01-01.pdf</a></li>
+		<li><a href="media/lecture16/TF-00.pdf">TF-00.pdf</a></li>
+		<li><a href="media/lecture16/TP-00.pdf">TP-00.pdf</a></li>
+		<li><a href="media/lecture16/R1-00.pdf">R1-00.pdf</a></li>
+		<li><a href="media/lecture16/R1-00.pdf">CA-00.pdf</a></li>
+		<li><a href="media/lecture01/cell-shearer/cell-shearer.pdf">cell-shearer.pdf</a></li>
+		<li><a href="media/lecture01/cell-shearer/cell-shearer-assembly.pdf">cell-shearer-assembly.pdf</a></li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>External Threads</h2>
+	<img src="media/lecture16/external-thread.png" />
+</section>
+
+<section class="slide">
+	<h2>Internal Threads</h2>
+	<img src="media/lecture16/internal-thread.png" />
+</section>
+
+<section class="slide">
+	<h2>Simplified Threads</h2>
+	<img src="media/lecture16/simplified-threads.png" />
+</section>
+
+<section class="slide">
+	<h2>English Threads</h2>
+	<img src="media/lecture16/english-threads.png" />
+</section>
+
+<section class="slide">
+	<h2>Metric Threads</h2>
+	<img src="media/lecture16/metric-threads.png" />
+</section>
+
+<section class="slide">
+	<h2>Tap Dimensions</h2>
+	<img src="media/lecture16/tap-dimensions.png" />
+</section>
+
+<section class="slide">
+	<h2>Hole Types</h2>
+	<img src="media/lecture16/hole-type.png" />
+</section>
+
+<section class="slide">
+	<h2>Rivets</h2>
+	<img src="media/lecture16/rivets.png" />
+</section>
+
+<section class="slide">
+	<h2>Keys and Keyways</h2>
+	<img src="media/lecture16/keys.png" />
+</section>
+
+<section class="slide">
+	<h2>Pins</h2>
+	<img src="media/lecture16/pins.png" />
+</section>
+
+<section class="slide">
+	<h2>Springs</h2>
+	<img src="media/lecture16/springs.png" />
+</section>
+
+<section class="slide">
+	<h2>Gears</h2>
+	<img src="media/lecture16/gears.png" />
+</section>
+
+<!-- End slides. -->
+
+<!-- Begin extension snippets. Add or remove as needed. -->
+
+<!-- deck.navigation snippet -->
+<a href="#" class="deck-prev-link" title="Previous">&#8592;</a>
+<a href="#" class="deck-next-link" title="Next">&#8594;</a>
+
+<!-- deck.status snippet -->
+<p class="deck-status">
+	<span class="deck-status-current"></span>
+	/
+	<span class="deck-status-total"></span>
+</p>
+
+<!-- deck.goto snippet -->
+<form action="." method="get" class="goto-form">
+	<label for="goto-slide">Go to slide:</label>
+	<input type="text" name="slidenum" id="goto-slide" list="goto-datalist">
+	<datalist id="goto-datalist"></datalist>
+	<input type="submit" value="Go">
+</form>
+
+<!-- deck.hash snippet -->
+<a href="." title="Permalink to this slide" class="deck-permalink">#</a>
+
+<!-- End extension snippets. -->
+
+
+<!-- Required JS files. -->
+<script src="deck.js/jquery-1.7.2.min.js"></script>
+<script src="deck.js/core/deck.core.js"></script>
+
+<!-- Extension JS files. Add or remove as needed. -->
+<script src="deck.js/core/deck.core.js"></script>
+<script src="deck.js/extensions/hash/deck.hash.js"></script>
+<script src="deck.js/extensions/menu/deck.menu.js"></script>
+<script src="deck.js/extensions/goto/deck.goto.js"></script>
+<script src="deck.js/extensions/status/deck.status.js"></script>
+<script src="deck.js/extensions/navigation/deck.navigation.js"></script>
+<script src="deck.js/extensions/scale/deck.scale.js"></script>
+
+<!-- Initialize the deck. You can put this in an external file if desired. -->
+<script>
+	$(function() {
+		$.deck('.slide');
+	});
+</script>
+</body>
+</html>
