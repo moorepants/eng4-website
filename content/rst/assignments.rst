@@ -91,6 +91,7 @@ indicates a modified problem statement.
 - `Homework #4 <lhw04.html>`_ [Due October 30]
 - `Homework #5 <lhw05.html>`_ [Due November 13]
 - `Homework #6 <lhw06.html>`_ [Due November 20]
+- `Homework #7 <lhw07.html>`_ [Due November 29]
 
 .. rubric:: Footnotes
 

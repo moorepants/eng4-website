@@ -189,10 +189,10 @@ Nov 13      ''                                       ''               HW #5 Due
 Nov 15      Geometric Dimensioning & Tolerancing     Chapter 10
 Nov 20      Design Documentation                     Chapter 11       HW #6 Due
 Nov 22      Thanksgiving Holiday
-Nov 27      Auxilary Views                           Chapter 6        HW #7 Due
-Nov 29      Section Views                            Chapter 8
-Dec 4       Plotting, charts, figures                                 HW #8 Due
-Dec 6       Random topics, review
+Nov 27      Auxilary Views                           Chapter 6
+Nov 29      Section Views                            Chapter 8        HW #7 Due
+Dec 4       Plotting, charts, figures
+Dec 6       Random topics, review                                     HW #8 Due
 **Dec 14**  **Final Exam**                                            8-10 AM
 ==========  =======================================  ===============  =====
 
