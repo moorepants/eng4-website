@@ -47,9 +47,7 @@ it is all assembled. The hinge pin should be held parallel and straight
 relative to the two inner surfaces of the of the hinge plates and offset the
 correct distance. The location of the holes should be positioned such that they
 could mate up well with another set of holes on a metal door jamb and door.
-Follow the steps on page 563 of the book to control the features. The hollow
-cylinders on the hinge should be attached by a small 1/8" fillet weld bead on
-each side of the plate.
+Follow the steps on page 563 of the book to control the features.
 
 There are multiple solutions to this assignment. Use your best judgement and
 discuss the problem with your classmates to come up with the best solution.
