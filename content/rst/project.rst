@@ -47,8 +47,7 @@ computers have Abode Acrobat which will allow you to assemble any individual
 PDF files together into one document.
 
 - Title page with project name, team member names, studio section day, TA name,
-  date, and path to the location of model and assembly drawings with in the zip
-  file, e.g. ``...ENG4\ENG4-205\CoolProject\``.
+  and date.
 - A table of contents
 - Project summary
 
