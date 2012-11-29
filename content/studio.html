@@ -7,7 +7,7 @@ description: Details about the studio session and the software used.
 {% extends "columns.j2" %}
 
 {% block main %}
-
+{% filter restructuredtext -%}
 .. include:: content/rst/studio.rst
-
+{%- endfilter %}
 {% endblock main %}

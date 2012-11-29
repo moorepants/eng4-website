@@ -7,7 +7,7 @@ description: The first homework assignment.
 {% extends "columns.j2" %}
 
 {% block main %}
-
+{% filter restructuredtext -%}
 .. include:: content/rst/lhw01.rst
-
+{%- endfilter %}
 {% endblock main %}

@@ -7,7 +7,7 @@ description: The fifth homework assignment.
 {% extends "columns.j2" %}
 
 {% block main %}
-
+{% filter restructuredtext -%}
 .. include:: content/rst/lhw05.rst
-
+{%- endfilter %}
 {% endblock main %}

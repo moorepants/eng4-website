@@ -7,7 +7,7 @@ description: Instructions for running Inventor's Pack and Go feature.
 {% extends "columns.j2" %}
 
 {% block main %}
-
+{% filter restructuredtext -%}
 .. include:: content/rst/packandgo.rst
-
+{%- endfilter %}
 {% endblock main %}

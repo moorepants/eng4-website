@@ -7,7 +7,7 @@ description: The fourth homework assignment.
 {% extends "columns.j2" %}
 
 {% block main %}
-
+{% filter restructuredtext -%}
 .. include:: content/rst/lhw04.rst
-
+{%- endfilter %}
 {% endblock main %}

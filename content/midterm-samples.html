@@ -7,7 +7,7 @@ description: Example midterm questions.
 {% extends "columns.j2" %}
 
 {% block main %}
-
+{% filter restructuredtext -%}
 .. include:: content/rst/midterm-samples.rst
-
+{%- endfilter %}
 {% endblock main %}

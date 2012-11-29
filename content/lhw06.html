@@ -7,7 +7,7 @@ description: The sixth homework assignment.
 {% extends "columns.j2" %}
 
 {% block main %}
-
+{% filter restructuredtext -%}
 .. include:: content/rst/lhw06.rst
-
+{%- endfilter %}
 {% endblock main %}

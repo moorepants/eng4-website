@@ -16,7 +16,7 @@ will be reverse engineering but some element of the assembly must be a new
 design.
 
 You will be required to submit a professional quality project report detailing
-the modeling project and a team member evaluation.
+the modeling project and a `team member evaluation <peer-eval.html>`_.
 
 The project should be handed in as a complete report with the drawings and
 printout as an appendix in PDF format. Grades for the project will be done on a
@@ -32,6 +32,8 @@ This is an informal presentation, slides are not needed and everything should
 be casual, just like a show and tell in elementary school.
 
 Contact your TA in case they have additional requirements.
+
+`Project Peer Evaluation Form <peer-eval.html>`_
 
 Requirements
 ------------
