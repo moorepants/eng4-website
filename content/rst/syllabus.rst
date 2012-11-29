@@ -51,6 +51,7 @@ Instructor
 | Dr. Jason K. Moore
 | 2013 Bainer Hall
 | jkmoor@ucdavis.edu
+| 530-752-8073
 | Office Hours: T 5:00-6:00 PM and R 1:00-2:00 PM, or by appointment
 |
 
