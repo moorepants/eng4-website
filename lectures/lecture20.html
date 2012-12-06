@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=1024, user-scalable=no">
+
+	<title>ENG 004 - Lecture #20</title>
+
+	<!-- Required stylesheet -->
+	<link rel="stylesheet" href="deck.js/core/deck.core.css">
+
+	<!-- Extension CSS files go here. Remove or add as needed. -->
+	<link rel="stylesheet" href="deck.js/extensions/goto/deck.goto.css">
+	<link rel="stylesheet" href="deck.js/extensions/menu/deck.menu.css">
+	<link rel="stylesheet" href="deck.js/extensions/navigation/deck.navigation.css">
+	<link rel="stylesheet" href="deck.js/extensions/status/deck.status.css">
+	<link rel="stylesheet" href="deck.js/extensions/hash/deck.hash.css">
+	<link rel="stylesheet" href="deck.js/extensions/scale/deck.scale.css">
+
+	<!-- Style theme. More available in /themes/style/ or create your own. -->
+	<link rel="stylesheet" href="deck.js/themes/style/swiss.css">
+
+	<!-- Transition theme. More available in /themes/transition/ or create your own. -->
+	<link rel="stylesheet" href="deck.js/themes/transition/horizontal-slide.css">
+
+	<!-- Custom styles -->
+	<link rel="stylesheet" href="style.css">
+
+	<!-- Required Modernizr file -->
+	<script src="deck.js/modernizr.custom.js"></script>
+
+<!-- MathJax -->
+<!-- <script type="text/javascript" -->
+   <!-- src="/home/moorepants/usr/bin/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+<!-- </head> -->
+<script type="text/javascript"
+   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+
+<body class="deck-container">
+
+<!-- Begin slides. Just make elements with a class of slide. -->
+
+<section class="slide" class="title-slide">
+	<h2>ENG 004 Lecture 20, Dec 6, 2012</h2>
+	<h3>Announcements</h3>
+	<ul>
+		<li>Homework #8 due now</li>
+		<li>Final Exam: Friday December 14, 8 AM - 10 AM</li>
+		<ul>
+			<li>Last Name A-L: Wellman 6</li>
+			<li>Last Name M-Z: Wellman 216</li>
+		</ul>
+	</ul>
+	<h3>Topics</h3>
+	<ul>
+		<li>Plotting</li>
+		<li>Review</li>
+		<li>Evaluations</li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Plotting with Matplotlib</h2>
+	<p><a href="http://www.matplotlib.org">Matplotlib website</a></p>
+	<p><a href="http://www.matplotlib.org/gallery.html">Matplotlib gallery</a></p>
+	<p><a
+		href="http://nbviewer.ipython.org/url/mae.ucdavis.edu/~biosport/jkm/courses/eng4/lectures/media/lecture19/plotting/plotting.ipynb">Example
+		plots done in class</a></p>
+</section>
+
+<section class="slide">
+	<h2>Tips for good figures</h2>
+	<ul>
+		<li>Make sure to size your figures to the same size as you want them
+		printed.If you make a high resolution export that is a very large size, you
+		can potentially resize it to make it fit in your paper. But remember that
+		the resize will change all of the font sizes. In word processors like MS
+		word and Open Office it is very tempting to drag resize your images so they
+		fit. Do not do this! You will always distort the image.</li>
+		<li>Make use of vector graphics based formats for clean resizing,
+		multi-use, small file sizes.</li>
+		<li>In Matlab and matplotlib resize your plots, set font sizes and line
+		widths, use Latex commands for symbols, text and equations. I typically
+		export as pdf or eps for easy inserting into pdf latex documents. <a
+			class="external-link"
+			href="http://www.zaphu.com/2007/09/13/how-to-customize-and-improve-matlab-figures-for-publication/">Here
+			is one example</a> of some things to improve your plotting in
+		Matlab.</li>
+		<li>The <a class="external-link"
+			href="http://en.wikipedia.org/wiki/Golden_ratio">golden ratio</a> makes
+		for good width to height ratios.</li>
+		<li>If you have to use bitmap (jpg, png, bmp, gif) images use at least 300
+		dpi, especially for photographs.</li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Tips for good figures</h2>
+	<ul>
+		<li>Color is great but many journals still print in greyscale as a default.
+		Make sure you adapt adjust the greyscale yourself so that for photographs.
+		Make use of different line types and line markers in plots. Sometimes
+		greyscale lines are tough to see.</li>
+		<li>Don't forget axis labels, tick marks, units, etc. These details are
+		very important!</li>
+		<li>Make sure subplots are aligned properly with each other. This includes
+		the tick marks.</li>
+		<li>Make sure your graph fonts match the fonts in the paper text. Size the
+		fonts accordingly, 8-10pt font is about as small as you should make text on
+		a paper for readability. Remember that some people may not be able to see
+		as well as you.</li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Tips for good figures</h2>
+	<ul>
+		<li>Use embedded Latex for your equations and greek symbols.  Matlab,
+		matplotlib and many other programs have this ability. MS Word and other
+		word processors generally do a horrible job at typesetting mathematics.
+		Avoid them if at all possible.</li>
+		<li>Experiment with more artistic ways of drawing your figures, don't be
+		stuck withing the boundaries of engineering graphics.</li>
+		<li>Plots from spreadsheet programs like Excel are not publication quality.
+		They typically look pretty bad.</li>
+		<li>Use scanned hand drawn images, photos or outputs from CAD as a
+		background to trace vector graphics over, then delete the background. Helps
+		give realistic three dimensional shapes.</li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Final Exam</h2>
+	<ul>
+		<li>2 hours</li>
+		<li>Closed book, close notes, no electronic devices</li>
+		<li>All paper will be provided</li>
+		<li>Can be completed without drawing tools, but they will help</li>
+		<li>Comprehensive but more focused on material since midterm</li>
+		<li>Questions will attempt to test understanding more than
+		memorization</li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Review: Design</h2>
+	<ul>
+		<li>Design models: concurrent and linear, ETC/ARC</li>
+		<li>Ram's Principles</li>
+		<li>Design Thinking</li>
+		<li>Visual Thinking</li>
+		<li>Role of graphics in design: visualization, documentation, communication</li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Review: Projection Theory</h2>
+	<ul>
+		<li>Projection Types: multiview, axonometric, oblique, perspective</li>
+		<li>Perspective: one point, two point, and three point</li>
+		<li>Parallel projections: multiview, isometric, oblique</li>
+		<li>First angle, third angle projections</li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Review: Sketching</h2>
+	<ul>
+		<li>Grids</li>
+		<li>Coordinates</li>
+		<li>Iso to multiview</li>
+		<li>Multiview to iso</li>
+		<li>Section Views</li>
+		<li>Auxiliary Views</li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Review: Solid Model Construction</h2>
+	<ul>
+		<li>2D and 3D Primitives</li>
+		<li>Work points, axes, planes</li>
+		<li>Constructive modeling and boolean operations</li>
+		<li>Feature planning</li>
+		<li>2D and 3D constraints and parametric constraints</li>
+	</ul>
+</section>
+
+<section class="slide">
+	<h2>Review: Working Drawings</h2>
+	<ul>
+		<li>Title blocks, standards, symbols</li>
+		<li>Dimensioning</li>
+		<li>Traditional Tolerancing</li>
+		<li>Fits</li>
+		<li>Geometric Dimensioning and Tolerancing</li>
+	</ul>
+</section>
+
+<!-- End slides. -->
+
+<!-- Begin extension snippets. Add or remove as needed. -->
+
+<!-- deck.navigation snippet -->
+<a href="#" class="deck-prev-link" title="Previous">&#8592;</a>
+<a href="#" class="deck-next-link" title="Next">&#8594;</a>
+
+<!-- deck.status snippet -->
+<p class="deck-status">
+	<span class="deck-status-current"></span>
+	/
+	<span class="deck-status-total"></span>
+</p>
+
+<!-- deck.goto snippet -->
+<form action="." method="get" class="goto-form">
+	<label for="goto-slide">Go to slide:</label>
+	<input type="text" name="slidenum" id="goto-slide" list="goto-datalist">
+	<datalist id="goto-datalist"></datalist>
+	<input type="submit" value="Go">
+</form>
+
+<!-- deck.hash snippet -->
+<a href="." title="Permalink to this slide" class="deck-permalink">#</a>
+
+<!-- End extension snippets. -->
+
+
+<!-- Required JS files. -->
+<script src="deck.js/jquery-1.7.2.min.js"></script>
+<script src="deck.js/core/deck.core.js"></script>
+
+<!-- Extension JS files. Add or remove as needed. -->
+<script src="deck.js/core/deck.core.js"></script>
+<script src="deck.js/extensions/hash/deck.hash.js"></script>
+<script src="deck.js/extensions/menu/deck.menu.js"></script>
+<script src="deck.js/extensions/goto/deck.goto.js"></script>
+<script src="deck.js/extensions/status/deck.status.js"></script>
+<script src="deck.js/extensions/navigation/deck.navigation.js"></script>
+<script src="deck.js/extensions/scale/deck.scale.js"></script>
+
+<!-- Initialize the deck. You can put this in an external file if desired. -->
+<script>
+	$(function() {
+		$.deck('.slide');
+	});
+</script>
+</body>
+</html>
