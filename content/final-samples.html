@@ -1,0 +1,13 @@
+---
+title: Sample Final Problems
+subtitle: ENG 4 Fall 2012
+description: Example final questions.
+---
+
+{% extends "columns.j2" %}
+
+{% block main %}
+{% filter restructuredtext -%}
+.. include:: content/rst/final-samples.rst
+{%- endfilter %}
+{% endblock main %}

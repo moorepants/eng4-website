@@ -1,3 +1,16 @@
+Sample Final Questions
+======================
+
+The final will be Friday December 14 @ 8:00 AM. It will be administered in two
+classrooms. You will be assigned a room based on the first letter of your last
+name:
+
+| A-L : Wellman 6
+| M-Z : Wellman 216
+|
+
+`[Sample Final Problems] <final-samples.html>`_
+
 Midterm Sample Questions
 ========================
 
