@@ -17,6 +17,7 @@
 - Lecture #17, November 27: Section Views [`html`__][`pdf`__]
 - Lecture #18, November 29: Auxiliary Views [`html`__][`pdf`__]
 - Lecture #19, December 4: Auxiliary Views, Charts and plots [`html`__][`pdf`__]
+- Lecture #20, December 6: Plotting, Review [`html`__][`pdf`__]
 
 __ lectures/lecture01.html
 __ lectures/media/lecture01.pdf
@@ -54,3 +55,5 @@ __ lectures/lecture18.html
 __ lectures/media/lecture18.pdf
 __ lectures/lecture19.html
 __ lectures/media/lecture19.pdf
+__ lectures/lecture20.html
+__ lectures/media/lecture20.pdf
