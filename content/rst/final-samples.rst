@@ -61,7 +61,8 @@ Auxiliary and Section Views
 
 Create primary and secondary partial auxiliary views to show the true size (no
 hidden lines) of surfaces B and C. Also draw a section view given the cutting
-plane line A-A. The round holes are 1 unit in diameter.
+plane line A-A. The round holes are 1 unit in diameter. The hidden lines for
+the holes' depth are not shown.
 
 .. image:: media/images/secondary.png
    :target: media/images/secondary-solution.png
