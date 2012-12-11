@@ -38,3 +38,30 @@ to determine if the point lies on the plane. Show all steps.
 
 .. image:: media/images/auxiliary.jpg
    :target: media/images/auxiliary-solution.jpg
+
+Multiview + Dimensioning
+========================
+
+Create a multiview drawing of the object shown and fully dimension it.
+
+.. image:: media/images/multiview-dimensions.jpg
+   :target: media/images/multiview-dimensions-solution.jpg
+
+Oblique Lines
+=============
+
+Complete the top view of the shown multiview and draw an isometric view of the
+object.
+
+.. image:: media/images/oblique.png
+   :target: media/images/oblique-solution.png
+
+Auxiliary and Section Views
+===========================
+
+Create primary and secondary partial auxiliary views to show the true size (no
+hidden lines) of surfaces B and C. Also draw a section view given the cutting
+plane line A-A. The round holes are 1 unit in diameter.
+
+.. image:: media/images/secondary.png
+   :target: media/images/secondary-solution.png
